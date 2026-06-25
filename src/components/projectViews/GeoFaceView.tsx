@@ -221,7 +221,7 @@ export const GeoFaceView = ({ project }: any) => {
                 className="absolute inset-0 rounded-3xl border border-violet-400/30"
               />
 
-                <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.6)] bg-[#0a0a0a]" style={{ width: '320px', height: '420px' }}>
+                <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.6)] bg-[#0a0a0a]" style={{ width: '400px', height: '540px' }}>
                   {/* Glass reflection overlay */}
                   <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/5 to-transparent pointer-events-none z-10" />
 
