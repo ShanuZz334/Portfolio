@@ -91,13 +91,13 @@ const About = () => {
                   repeat: Infinity,
                   ease: "easeInOut"
                 }}
-                className="absolute top-10 left-10 md:top-20 md:left-20 z-20"
+                className="absolute top-10 left-5 md:top-20 md:left-20 z-20"
               >
                 <div className="p-4 rounded-3xl bg-[#0a0a0a]/90 border border-white/10 backdrop-blur-sm shadow-[0_0_30px_rgba(0,240,255,0.15)] group hover:shadow-[0_0_40px_rgba(0,240,255,0.3)] transition-all">
                   <img 
                     src="/images/stocky_logo.png" 
                     alt="Stocky" 
-                    className="w-32 h-32 md:w-48 md:h-48 object-contain"
+                    className="w-24 h-24 md:w-48 md:h-48 object-contain"
                   />
                 </div>
               </motion.div>
@@ -115,13 +115,13 @@ const About = () => {
                   ease: "easeInOut",
                   delay: 1.5
                 }}
-                className="absolute bottom-10 right-10 md:bottom-20 md:right-20 z-10"
+                className="absolute bottom-10 right-5 md:bottom-20 md:right-20 z-10"
               >
                 <div className="p-4 rounded-3xl bg-[#0a0a0a]/90 border border-white/10 backdrop-blur-sm shadow-[0_0_30px_rgba(138,43,226,0.15)] group hover:shadow-[0_0_40px_rgba(138,43,226,0.3)] transition-all">
                   <img 
                     src="/images/geoface_logo.png" 
                     alt="GeoFace" 
-                    className="w-32 h-32 md:w-48 md:h-48 object-contain"
+                    className="w-24 h-24 md:w-48 md:h-48 object-contain"
                   />
                 </div>
               </motion.div>
