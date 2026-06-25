@@ -62,8 +62,6 @@ const Contact = () => {
 
     const formData = new FormData(e.currentTarget)
     const originalMessage = formData.get('message') as string;
-    const name = formData.get('name') as string;
-    const email = formData.get('email') as string;
     
     formData.set('message', `[Project Type: ${projectType}]\n\n${originalMessage}`);
     
