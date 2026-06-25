@@ -221,46 +221,43 @@ export const GeoFaceView = ({ project }: any) => {
                 className="absolute inset-0 rounded-3xl border border-violet-400/30"
               />
 
-              <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.6),inset_0_0_20px_rgba(139,92,246,0.05)] bg-[#0a0a0a]">
-                {/* Glass reflection overlay */}
-                <div className="absolute inset-0 bg-gradient-to-tr from-violet-500/5 to-transparent pointer-events-none z-10" />
-
-                {showcase.length > 0 ? (
-                  <AnimatePresence mode="wait">
-                    <motion.img
-                      layout
-                      key={currentSlide}
-                      src={showcase[currentSlide].image}
-                      alt={showcase[currentSlide].title}
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      exit={{ opacity: 0 }}
-                      transition={{ duration: 0.6, layout: { duration: 0.6, ease: "easeInOut" } }}
-                      className={`w-full object-cover mx-auto ${showcase[currentSlide].image.includes('mobile') ? 'max-w-[220px] md:max-w-[260px]' : 'max-w-xl md:max-w-2xl'}`}
-                    />
-                  </AnimatePresence>
-                ) : (
-                  <motion.img
-                    layout
-                    src={project.showcase?.[0]?.image || project.images?.[0]}
-                    alt="GeoFace App Preview"
-                    className={`w-full object-cover mx-auto ${(project.showcase?.[0]?.image || project.images?.[0] || '').includes('mobile') ? 'max-w-[220px] md:max-w-[260px]' : 'max-w-xl md:max-w-2xl'}`}
-                  />
-                )}
-
-                {/* Slide dots */}
-                {showcase.length > 1 && (
-                  <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-1.5 z-20">
-                    {showcase.map((_: any, i: number) => (
-                      <button
-                        key={i}
-                        onClick={() => setCurrentSlide(i)}
-                        className={`h-1.5 rounded-full transition-all duration-300 ${i === currentSlide ? 'w-6 bg-violet-500' : 'w-1.5 bg-white/30'}`}
+                <div className="relative w-full" style={{ minHeight: '420px', maxWidth: '320px', margin: '0 auto' }}>
+                  {showcase.length > 0 ? (
+                    <AnimatePresence mode="wait">
+                      <motion.img
+                        key={currentSlide}
+                        src={showcase[currentSlide].image}
+                        alt={showcase[currentSlide].title}
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        transition={{ duration: 0.5 }}
+                        className="w-full h-full object-contain absolute inset-0"
+                        style={{ maxHeight: '420px' }}
                       />
-                    ))}
-                  </div>
-                )}
-              </div>
+                    </AnimatePresence>
+                  ) : (
+                    <img
+                      src={project.showcase?.[0]?.image || project.images?.[0]}
+                      alt="GeoFace App Preview"
+                      className="w-full h-full object-contain absolute inset-0"
+                      style={{ maxHeight: '420px' }}
+                    />
+                  )}
+
+                  {/* Slide dots */}
+                  {showcase.length > 1 && (
+                    <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-1.5 z-20">
+                      {showcase.map((_: any, i: number) => (
+                        <button
+                          key={i}
+                          onClick={() => setCurrentSlide(i)}
+                          className={`h-1.5 rounded-full transition-all duration-300 ${i === currentSlide ? 'w-6 bg-violet-500' : 'w-1.5 bg-white/30'}`}
+                        />
+                      ))}
+                    </div>
+                  )}
+                </div>
             </motion.div>
           </motion.div>
         </section>
