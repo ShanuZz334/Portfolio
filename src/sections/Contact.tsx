@@ -89,14 +89,7 @@ const Contact = () => {
         throw new Error('API Response not ok');
       }
     } catch (error) {
-      console.error('Error submitting form via API. Falling back to mailto:', error)
-      
-      // Fallback: Open default email client with pre-filled data
-      const subject = encodeURIComponent(`New Project Request: ${projectType} from ${name}`);
-      const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nProject Type: ${projectType}\n\nMessage:\n${originalMessage}`);
-      window.location.href = `mailto:${PORTFOLIO_DATA.contact.email}?subject=${subject}&body=${body}`;
-      
-      // We'll still show success so the user feels their action was completed
+      console.error('Error submitting form:', error)
       setIsSuccess(true)
       e.currentTarget.reset()
       setProjectType('AI App')
