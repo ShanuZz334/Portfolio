@@ -188,7 +188,7 @@ export const PORTFOLIO_DATA = {
       ],
       technologies: ["Python", "Artificial Intelligence", "Machine Learning", "Computer Vision", "Face Recognition Models", "Web Technologies"],
       isFeatured: false,
-      liveLink: "https://github.com/ShanuZz334/GeoFensing/releases/download/v1.0.0/GeoFace.apk",
+      liveLink: "https://github.com/ShanuZz334/GeoFensing/releases/download/v0.0.0.0/GeoFace.Dummy.apk",
       githubLink: "https://github.com/ShanuZz334/GeoFensing",
       images: [
         "/projects/geoface/mobile (1).jpeg",
