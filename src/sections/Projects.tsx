@@ -158,7 +158,7 @@ const Projects = () => {
                 ))}
               </div>
 
-              <div className="flex items-center gap-4 mt-auto">
+              <div className="flex flex-wrap items-center gap-4 mt-auto">
                 <a
                   href={geofaceProject.liveLink}
                   target="_blank"
@@ -166,6 +166,14 @@ const Projects = () => {
                   className="flex items-center gap-2 px-6 py-3 font-semibold text-black transition-all rounded-lg bg-white hover:bg-violet cursor-pointer">
                   Download APK <ExternalLink size={18} />
                 </a>
+                <button
+                  onClick={() => {
+                    alert("This is the app with dummy data since the original needs high paid servers to host. We are currently only hosting it in a local server. You will now be redirected to the dummy version.");
+                    window.open("https://geo-fensing.vercel.app/", "_blank");
+                  }}
+                  className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-white/20 hover:bg-white/10 cursor-pointer">
+                  View Project <ExternalLink size={18} />
+                </button>
                 <button
                   onClick={() => openModal(geofaceProject)}
                   className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-white/20 hover:bg-white/10 cursor-pointer">
