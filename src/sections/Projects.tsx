@@ -15,6 +15,8 @@ const Projects = () => {
     project: null
   })
 
+  const [showDummyModal, setShowDummyModal] = useState(false)
+
   const openModal = (project: any) => {
     setModalData({
       isOpen: true,
@@ -158,7 +160,7 @@ const Projects = () => {
                 ))}
               </div>
 
-              <div className="flex flex-wrap items-center gap-4 mt-auto">
+              <div className="flex items-center gap-4 mt-auto">
                 <a
                   href={geofaceProject.liveLink}
                   target="_blank"
@@ -167,11 +169,8 @@ const Projects = () => {
                   Download APK <ExternalLink size={18} />
                 </a>
                 <button
-                  onClick={() => {
-                    alert("This is the app with dummy data since the original needs high paid servers to host. We are currently only hosting it in a local server. You will now be redirected to the dummy version.");
-                    window.open("https://geo-fensing.vercel.app/", "_blank");
-                  }}
-                  className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-white/20 hover:bg-white/10 cursor-pointer">
+                  onClick={() => setShowDummyModal(true)}
+                  className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-violet/50 bg-violet/10 hover:bg-violet/20 cursor-pointer">
                   View Project <ExternalLink size={18} />
                 </button>
                 <button
@@ -196,6 +195,69 @@ const Projects = () => {
         onClose={() => setModalData(prev => ({ ...prev, isOpen: false }))}
         project={modalData.project}
       />
+
+      {/* ─── Dummy Data Notice Modal ─────────────────────────────── */}
+      {showDummyModal && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center p-4"
+          onClick={() => setShowDummyModal(false)}
+        >
+          {/* Backdrop */}
+          <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
+
+          {/* Modal Card */}
+          <div
+            className="relative z-10 w-full max-w-md rounded-2xl p-[1px] bg-gradient-to-br from-violet/60 via-cyan/30 to-electric-blue/40"
+            onClick={e => e.stopPropagation()}
+          >
+            <div className="rounded-[15px] bg-[#0d0a1a] p-8 flex flex-col gap-5">
+              {/* Icon + Title */}
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-violet/20 border border-violet/40 flex items-center justify-center shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-violet">
+                    <circle cx="12" cy="12" r="10"/>
+                    <line x1="12" y1="8" x2="12" y2="12"/>
+                    <line x1="12" y1="16" x2="12.01" y2="16"/>
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-white">Demo Version Notice</h3>
+              </div>
+
+              {/* Body */}
+              <p className="text-gray-300 text-sm leading-relaxed">
+                This is a <span className="text-violet font-semibold">demo version</span> of GeoFace running with dummy data.
+                The original system requires high-performance servers for real-time AI face recognition
+                and geolocation processing, which are currently hosted on a local server.
+              </p>
+              <p className="text-gray-400 text-sm leading-relaxed">
+                You will be redirected to the demo version hosted on Vercel with sample data so you can explore the interface and features.
+              </p>
+
+              {/* Divider */}
+              <div className="w-full h-px bg-white/10" />
+
+              {/* Actions */}
+              <div className="flex items-center gap-3">
+                <button
+                  onClick={() => {
+                    setShowDummyModal(false)
+                    window.open('https://geo-fensing.vercel.app/', '_blank')
+                  }}
+                  className="flex-1 flex items-center justify-center gap-2 px-5 py-3 font-semibold text-white rounded-lg bg-gradient-to-r from-violet to-electric-blue hover:opacity-90 transition-all cursor-pointer"
+                >
+                  Continue to Demo <ExternalLink size={16} />
+                </button>
+                <button
+                  onClick={() => setShowDummyModal(false)}
+                  className="px-5 py-3 font-semibold text-gray-400 rounded-lg border border-white/10 hover:bg-white/5 transition-all cursor-pointer"
+                >
+                  Cancel
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </section>
   )
 }
