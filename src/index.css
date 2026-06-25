@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-bg: #050505;
+  --color-dark-navy: #0a0f1a;
+  --color-graphite: #121212;
+  --color-electric-blue: #00f0ff;
+  --color-cyan: #00e5ff;
+  --color-violet: #8a2be2;
+}
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+  body {
+    background-color: var(--color-dark-bg);
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  .glass {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-gradient {
+    background: linear-gradient(to right, var(--color-electric-blue), var(--color-violet));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* Hide navbar when project detail modal is open */
+html.modal-open header {
+  display: none !important;
+}
