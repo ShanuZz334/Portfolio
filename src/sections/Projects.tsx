@@ -161,18 +161,18 @@ const Projects = () => {
               </div>
 
               <div className="flex items-center gap-4 mt-auto">
+                <button
+                  onClick={() => setShowDummyModal(true)}
+                  className="flex items-center gap-2 px-6 py-3 font-semibold text-black transition-all rounded-lg bg-white hover:bg-violet cursor-pointer">
+                  View Project <ExternalLink size={18} />
+                </button>
                 <a
                   href={geofaceProject.liveLink}
                   target="_blank"
                   rel="noreferrer"
-                  className="flex items-center gap-2 px-6 py-3 font-semibold text-black transition-all rounded-lg bg-white hover:bg-violet cursor-pointer">
+                  className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-white/20 hover:bg-white/10 cursor-pointer">
                   Download APK <ExternalLink size={18} />
                 </a>
-                <button
-                  onClick={() => setShowDummyModal(true)}
-                  className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-violet/50 bg-violet/10 hover:bg-violet/20 cursor-pointer">
-                  View Project <ExternalLink size={18} />
-                </button>
                 <button
                   onClick={() => openModal(geofaceProject)}
                   className="flex items-center gap-2 px-6 py-3 font-semibold text-white transition-all border rounded-lg border-white/20 hover:bg-white/10 cursor-pointer">
