@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 19:54:02 IST`  
+> **Last Rotated & Published:** `2026-10-27 19:57:04 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://implementation-personality-mega-edges.trycloudflare.com/](https://implementation-personality-mega-edges.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://implementation-personality-mega-edges.trycloudflare.com/student/](https://implementation-personality-mega-edges.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://implementation-personality-mega-edges.trycloudflare.com/faculty/](https://implementation-personality-mega-edges.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://implementation-personality-mega-edges.trycloudflare.com/admin/](https://implementation-personality-mega-edges.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://implementation-personality-mega-edges.trycloudflare.com/health](https://implementation-personality-mega-edges.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://sterling-branches-buf-explosion.trycloudflare.com/](https://sterling-branches-buf-explosion.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://sterling-branches-buf-explosion.trycloudflare.com/student/](https://sterling-branches-buf-explosion.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://sterling-branches-buf-explosion.trycloudflare.com/faculty/](https://sterling-branches-buf-explosion.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://sterling-branches-buf-explosion.trycloudflare.com/admin/](https://sterling-branches-buf-explosion.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://sterling-branches-buf-explosion.trycloudflare.com/health](https://sterling-branches-buf-explosion.trycloudflare.com/health)** |
 
 ---
 
