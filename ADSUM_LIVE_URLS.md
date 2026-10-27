@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 19:28:14 IST`  
+> **Last Rotated & Published:** `2026-10-27 19:44:34 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://technological-colin-glance-increasing.trycloudflare.com/](https://technological-colin-glance-increasing.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://technological-colin-glance-increasing.trycloudflare.com/student/](https://technological-colin-glance-increasing.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://technological-colin-glance-increasing.trycloudflare.com/faculty/](https://technological-colin-glance-increasing.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://technological-colin-glance-increasing.trycloudflare.com/admin/](https://technological-colin-glance-increasing.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://technological-colin-glance-increasing.trycloudflare.com/health](https://technological-colin-glance-increasing.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://physics-murphy-book-performances.trycloudflare.com/](https://physics-murphy-book-performances.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://physics-murphy-book-performances.trycloudflare.com/student/](https://physics-murphy-book-performances.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://physics-murphy-book-performances.trycloudflare.com/faculty/](https://physics-murphy-book-performances.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://physics-murphy-book-performances.trycloudflare.com/admin/](https://physics-murphy-book-performances.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://physics-murphy-book-performances.trycloudflare.com/health](https://physics-murphy-book-performances.trycloudflare.com/health)** |
 
 ---
 
