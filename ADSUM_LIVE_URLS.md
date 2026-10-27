@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 18:52:29 IST`  
+> **Last Rotated & Published:** `2026-10-27 19:22:48 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://weeks-pray-domain-markers.trycloudflare.com/](https://weeks-pray-domain-markers.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://weeks-pray-domain-markers.trycloudflare.com/student/](https://weeks-pray-domain-markers.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://weeks-pray-domain-markers.trycloudflare.com/faculty/](https://weeks-pray-domain-markers.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://weeks-pray-domain-markers.trycloudflare.com/admin/](https://weeks-pray-domain-markers.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://weeks-pray-domain-markers.trycloudflare.com/health](https://weeks-pray-domain-markers.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://economics-consortium-potatoes-duties.trycloudflare.com/](https://economics-consortium-potatoes-duties.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://economics-consortium-potatoes-duties.trycloudflare.com/student/](https://economics-consortium-potatoes-duties.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://economics-consortium-potatoes-duties.trycloudflare.com/faculty/](https://economics-consortium-potatoes-duties.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://economics-consortium-potatoes-duties.trycloudflare.com/admin/](https://economics-consortium-potatoes-duties.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://economics-consortium-potatoes-duties.trycloudflare.com/health](https://economics-consortium-potatoes-duties.trycloudflare.com/health)** |
 
 ---
 
