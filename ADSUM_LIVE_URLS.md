@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 19:57:11 IST`  
+> **Last Rotated & Published:** `2026-10-27 20:13:03 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://housewares-significant-popularity-thank.trycloudflare.com/](https://housewares-significant-popularity-thank.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://housewares-significant-popularity-thank.trycloudflare.com/student/](https://housewares-significant-popularity-thank.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://housewares-significant-popularity-thank.trycloudflare.com/faculty/](https://housewares-significant-popularity-thank.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://housewares-significant-popularity-thank.trycloudflare.com/admin/](https://housewares-significant-popularity-thank.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://housewares-significant-popularity-thank.trycloudflare.com/health](https://housewares-significant-popularity-thank.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://basic-picking-shakespeare-kids.trycloudflare.com/](https://basic-picking-shakespeare-kids.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://basic-picking-shakespeare-kids.trycloudflare.com/student/](https://basic-picking-shakespeare-kids.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://basic-picking-shakespeare-kids.trycloudflare.com/faculty/](https://basic-picking-shakespeare-kids.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://basic-picking-shakespeare-kids.trycloudflare.com/admin/](https://basic-picking-shakespeare-kids.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://basic-picking-shakespeare-kids.trycloudflare.com/health](https://basic-picking-shakespeare-kids.trycloudflare.com/health)** |
 
 ---
 
