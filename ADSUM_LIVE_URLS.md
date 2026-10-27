@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 18:11:40 IST`  
+> **Last Rotated & Published:** `2026-10-27 18:52:29 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://gray-relationship-excellence-privacy.trycloudflare.com/](https://gray-relationship-excellence-privacy.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://gray-relationship-excellence-privacy.trycloudflare.com/student/](https://gray-relationship-excellence-privacy.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://gray-relationship-excellence-privacy.trycloudflare.com/faculty/](https://gray-relationship-excellence-privacy.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://gray-relationship-excellence-privacy.trycloudflare.com/admin/](https://gray-relationship-excellence-privacy.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://gray-relationship-excellence-privacy.trycloudflare.com/health](https://gray-relationship-excellence-privacy.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://weeks-pray-domain-markers.trycloudflare.com/](https://weeks-pray-domain-markers.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://weeks-pray-domain-markers.trycloudflare.com/student/](https://weeks-pray-domain-markers.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://weeks-pray-domain-markers.trycloudflare.com/faculty/](https://weeks-pray-domain-markers.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://weeks-pray-domain-markers.trycloudflare.com/admin/](https://weeks-pray-domain-markers.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://weeks-pray-domain-markers.trycloudflare.com/health](https://weeks-pray-domain-markers.trycloudflare.com/health)** |
 
 ---
 
