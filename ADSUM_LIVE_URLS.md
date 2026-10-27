@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 20:44:43 IST`  
+> **Last Rotated & Published:** `2026-10-27 20:48:15 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://ellis-brokers-tent-netscape.trycloudflare.com/](https://ellis-brokers-tent-netscape.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://ellis-brokers-tent-netscape.trycloudflare.com/student/](https://ellis-brokers-tent-netscape.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://ellis-brokers-tent-netscape.trycloudflare.com/faculty/](https://ellis-brokers-tent-netscape.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://ellis-brokers-tent-netscape.trycloudflare.com/admin/](https://ellis-brokers-tent-netscape.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://ellis-brokers-tent-netscape.trycloudflare.com/health](https://ellis-brokers-tent-netscape.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://hints-uniprotkb-chose-tribunal.trycloudflare.com/](https://hints-uniprotkb-chose-tribunal.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://hints-uniprotkb-chose-tribunal.trycloudflare.com/student/](https://hints-uniprotkb-chose-tribunal.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://hints-uniprotkb-chose-tribunal.trycloudflare.com/faculty/](https://hints-uniprotkb-chose-tribunal.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://hints-uniprotkb-chose-tribunal.trycloudflare.com/admin/](https://hints-uniprotkb-chose-tribunal.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://hints-uniprotkb-chose-tribunal.trycloudflare.com/health](https://hints-uniprotkb-chose-tribunal.trycloudflare.com/health)** |
 
 ---
 
