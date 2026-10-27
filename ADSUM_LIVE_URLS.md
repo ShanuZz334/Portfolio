@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 19:22:57 IST`  
+> **Last Rotated & Published:** `2026-10-27 19:25:18 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://sapphire-camel-cafe-aud.trycloudflare.com/](https://sapphire-camel-cafe-aud.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://sapphire-camel-cafe-aud.trycloudflare.com/student/](https://sapphire-camel-cafe-aud.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://sapphire-camel-cafe-aud.trycloudflare.com/faculty/](https://sapphire-camel-cafe-aud.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://sapphire-camel-cafe-aud.trycloudflare.com/admin/](https://sapphire-camel-cafe-aud.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://sapphire-camel-cafe-aud.trycloudflare.com/health](https://sapphire-camel-cafe-aud.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://governmental-exam-app-compute.trycloudflare.com/](https://governmental-exam-app-compute.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://governmental-exam-app-compute.trycloudflare.com/student/](https://governmental-exam-app-compute.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://governmental-exam-app-compute.trycloudflare.com/faculty/](https://governmental-exam-app-compute.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://governmental-exam-app-compute.trycloudflare.com/admin/](https://governmental-exam-app-compute.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://governmental-exam-app-compute.trycloudflare.com/health](https://governmental-exam-app-compute.trycloudflare.com/health)** |
 
 ---
 
