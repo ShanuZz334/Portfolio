@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 20:50:11 IST`  
+> **Last Rotated & Published:** `2026-10-27 20:52:03 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://heading-challenging-italic-reservations.trycloudflare.com/](https://heading-challenging-italic-reservations.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://heading-challenging-italic-reservations.trycloudflare.com/student/](https://heading-challenging-italic-reservations.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://heading-challenging-italic-reservations.trycloudflare.com/faculty/](https://heading-challenging-italic-reservations.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://heading-challenging-italic-reservations.trycloudflare.com/admin/](https://heading-challenging-italic-reservations.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://heading-challenging-italic-reservations.trycloudflare.com/health](https://heading-challenging-italic-reservations.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://expects-fitting-source-para.trycloudflare.com/](https://expects-fitting-source-para.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://expects-fitting-source-para.trycloudflare.com/student/](https://expects-fitting-source-para.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://expects-fitting-source-para.trycloudflare.com/faculty/](https://expects-fitting-source-para.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://expects-fitting-source-para.trycloudflare.com/admin/](https://expects-fitting-source-para.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://expects-fitting-source-para.trycloudflare.com/health](https://expects-fitting-source-para.trycloudflare.com/health)** |
 
 ---
 
