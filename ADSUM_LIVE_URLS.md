@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 01:50:08 IST`  
+> **Last Rotated & Published:** `2026-10-29 01:50:38 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://henry-way-ideal-parameter.trycloudflare.com/](https://henry-way-ideal-parameter.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://henry-way-ideal-parameter.trycloudflare.com/student/](https://henry-way-ideal-parameter.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://henry-way-ideal-parameter.trycloudflare.com/faculty/](https://henry-way-ideal-parameter.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://henry-way-ideal-parameter.trycloudflare.com/admin/](https://henry-way-ideal-parameter.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://henry-way-ideal-parameter.trycloudflare.com/health](https://henry-way-ideal-parameter.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://detroit-stomach-delicious-ripe.trycloudflare.com/](https://detroit-stomach-delicious-ripe.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://detroit-stomach-delicious-ripe.trycloudflare.com/student/](https://detroit-stomach-delicious-ripe.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://detroit-stomach-delicious-ripe.trycloudflare.com/faculty/](https://detroit-stomach-delicious-ripe.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://detroit-stomach-delicious-ripe.trycloudflare.com/admin/](https://detroit-stomach-delicious-ripe.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://detroit-stomach-delicious-ripe.trycloudflare.com/health](https://detroit-stomach-delicious-ripe.trycloudflare.com/health)** |
 
 ---
 
