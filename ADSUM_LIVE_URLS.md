@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 01:53:59 IST`  
+> **Last Rotated & Published:** `2026-10-29 02:19:27 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://reno-bar-statistics-labels.trycloudflare.com/](https://reno-bar-statistics-labels.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://reno-bar-statistics-labels.trycloudflare.com/student/](https://reno-bar-statistics-labels.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://reno-bar-statistics-labels.trycloudflare.com/faculty/](https://reno-bar-statistics-labels.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://reno-bar-statistics-labels.trycloudflare.com/admin/](https://reno-bar-statistics-labels.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://reno-bar-statistics-labels.trycloudflare.com/health](https://reno-bar-statistics-labels.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://posted-angle-teams-dedicated.trycloudflare.com/](https://posted-angle-teams-dedicated.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://posted-angle-teams-dedicated.trycloudflare.com/student/](https://posted-angle-teams-dedicated.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://posted-angle-teams-dedicated.trycloudflare.com/faculty/](https://posted-angle-teams-dedicated.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://posted-angle-teams-dedicated.trycloudflare.com/admin/](https://posted-angle-teams-dedicated.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://posted-angle-teams-dedicated.trycloudflare.com/health](https://posted-angle-teams-dedicated.trycloudflare.com/health)** |
 
 ---
 
