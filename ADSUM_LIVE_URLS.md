@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 01:18:30 IST`  
+> **Last Rotated & Published:** `2026-10-29 01:23:25 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://stationery-shadows-describing-produce.trycloudflare.com/](https://stationery-shadows-describing-produce.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://stationery-shadows-describing-produce.trycloudflare.com/student/](https://stationery-shadows-describing-produce.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://stationery-shadows-describing-produce.trycloudflare.com/faculty/](https://stationery-shadows-describing-produce.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://stationery-shadows-describing-produce.trycloudflare.com/admin/](https://stationery-shadows-describing-produce.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://stationery-shadows-describing-produce.trycloudflare.com/health](https://stationery-shadows-describing-produce.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://remote-assignments-strongly-cathedral.trycloudflare.com/](https://remote-assignments-strongly-cathedral.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://remote-assignments-strongly-cathedral.trycloudflare.com/student/](https://remote-assignments-strongly-cathedral.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://remote-assignments-strongly-cathedral.trycloudflare.com/faculty/](https://remote-assignments-strongly-cathedral.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://remote-assignments-strongly-cathedral.trycloudflare.com/admin/](https://remote-assignments-strongly-cathedral.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://remote-assignments-strongly-cathedral.trycloudflare.com/health](https://remote-assignments-strongly-cathedral.trycloudflare.com/health)** |
 
 ---
 
