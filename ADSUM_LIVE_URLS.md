@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-28 20:58:36 IST`  
+> **Last Rotated & Published:** `2026-10-28 21:06:32 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://contamination-knew-gets-hometown.trycloudflare.com/](https://contamination-knew-gets-hometown.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://contamination-knew-gets-hometown.trycloudflare.com/student/](https://contamination-knew-gets-hometown.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://contamination-knew-gets-hometown.trycloudflare.com/faculty/](https://contamination-knew-gets-hometown.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://contamination-knew-gets-hometown.trycloudflare.com/admin/](https://contamination-knew-gets-hometown.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://contamination-knew-gets-hometown.trycloudflare.com/health](https://contamination-knew-gets-hometown.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://installing-prot-likewise-density.trycloudflare.com/](https://installing-prot-likewise-density.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://installing-prot-likewise-density.trycloudflare.com/student/](https://installing-prot-likewise-density.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://installing-prot-likewise-density.trycloudflare.com/faculty/](https://installing-prot-likewise-density.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://installing-prot-likewise-density.trycloudflare.com/admin/](https://installing-prot-likewise-density.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://installing-prot-likewise-density.trycloudflare.com/health](https://installing-prot-likewise-density.trycloudflare.com/health)** |
 
 ---
 
