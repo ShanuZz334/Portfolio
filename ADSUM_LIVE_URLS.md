@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 02:20:19 IST`  
+> **Last Rotated & Published:** `2026-10-29 02:21:01 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://salem-briefly-implications-potato.trycloudflare.com/](https://salem-briefly-implications-potato.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://salem-briefly-implications-potato.trycloudflare.com/student/](https://salem-briefly-implications-potato.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://salem-briefly-implications-potato.trycloudflare.com/faculty/](https://salem-briefly-implications-potato.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://salem-briefly-implications-potato.trycloudflare.com/admin/](https://salem-briefly-implications-potato.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://salem-briefly-implications-potato.trycloudflare.com/health](https://salem-briefly-implications-potato.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://apart-jersey-councils-controversial.trycloudflare.com/](https://apart-jersey-councils-controversial.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://apart-jersey-councils-controversial.trycloudflare.com/student/](https://apart-jersey-councils-controversial.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://apart-jersey-councils-controversial.trycloudflare.com/faculty/](https://apart-jersey-councils-controversial.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://apart-jersey-councils-controversial.trycloudflare.com/admin/](https://apart-jersey-councils-controversial.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://apart-jersey-councils-controversial.trycloudflare.com/health](https://apart-jersey-councils-controversial.trycloudflare.com/health)** |
 
 ---
 
