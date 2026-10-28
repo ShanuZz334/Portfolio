@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-28 22:37:44 IST`  
+> **Last Rotated & Published:** `2026-10-28 22:38:12 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://permitted-workshops-marine-singer.trycloudflare.com/](https://permitted-workshops-marine-singer.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://permitted-workshops-marine-singer.trycloudflare.com/student/](https://permitted-workshops-marine-singer.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://permitted-workshops-marine-singer.trycloudflare.com/faculty/](https://permitted-workshops-marine-singer.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://permitted-workshops-marine-singer.trycloudflare.com/admin/](https://permitted-workshops-marine-singer.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://permitted-workshops-marine-singer.trycloudflare.com/health](https://permitted-workshops-marine-singer.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://older-del-settlement-chambers.trycloudflare.com/](https://older-del-settlement-chambers.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://older-del-settlement-chambers.trycloudflare.com/student/](https://older-del-settlement-chambers.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://older-del-settlement-chambers.trycloudflare.com/faculty/](https://older-del-settlement-chambers.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://older-del-settlement-chambers.trycloudflare.com/admin/](https://older-del-settlement-chambers.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://older-del-settlement-chambers.trycloudflare.com/health](https://older-del-settlement-chambers.trycloudflare.com/health)** |
 
 ---
 
