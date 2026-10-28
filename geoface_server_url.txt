@@ -1,1 +1,1 @@
-https://creation-vpn-analog-devoted.trycloudflare.com
+https://api.trycloudflare.com
