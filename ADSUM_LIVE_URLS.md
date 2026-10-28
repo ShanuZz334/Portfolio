@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 03:28:36 IST`  
+> **Last Rotated & Published:** `2026-10-29 04:13:49 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://smoke-exemption-propose-strikes.trycloudflare.com/](https://smoke-exemption-propose-strikes.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://smoke-exemption-propose-strikes.trycloudflare.com/student/](https://smoke-exemption-propose-strikes.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://smoke-exemption-propose-strikes.trycloudflare.com/faculty/](https://smoke-exemption-propose-strikes.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://smoke-exemption-propose-strikes.trycloudflare.com/admin/](https://smoke-exemption-propose-strikes.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://smoke-exemption-propose-strikes.trycloudflare.com/health](https://smoke-exemption-propose-strikes.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/](https://commissions-stay-journalists-edmonton.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/student/](https://commissions-stay-journalists-edmonton.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/faculty/](https://commissions-stay-journalists-edmonton.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/admin/](https://commissions-stay-journalists-edmonton.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/health](https://commissions-stay-journalists-edmonton.trycloudflare.com/health)** |
 
 ---
 
