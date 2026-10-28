@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 03:14:24 IST`  
+> **Last Rotated & Published:** `2026-10-29 03:25:05 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://propose-assuming-realistic-structure.trycloudflare.com/](https://propose-assuming-realistic-structure.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://propose-assuming-realistic-structure.trycloudflare.com/student/](https://propose-assuming-realistic-structure.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://propose-assuming-realistic-structure.trycloudflare.com/faculty/](https://propose-assuming-realistic-structure.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://propose-assuming-realistic-structure.trycloudflare.com/admin/](https://propose-assuming-realistic-structure.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://propose-assuming-realistic-structure.trycloudflare.com/health](https://propose-assuming-realistic-structure.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://jackie-over-join-road.trycloudflare.com/](https://jackie-over-join-road.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://jackie-over-join-road.trycloudflare.com/student/](https://jackie-over-join-road.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://jackie-over-join-road.trycloudflare.com/faculty/](https://jackie-over-join-road.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://jackie-over-join-road.trycloudflare.com/admin/](https://jackie-over-join-road.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://jackie-over-join-road.trycloudflare.com/health](https://jackie-over-join-road.trycloudflare.com/health)** |
 
 ---
 
