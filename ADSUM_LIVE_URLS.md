@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-28 21:57:48 IST`  
+> **Last Rotated & Published:** `2026-10-28 21:59:08 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://sterling-resulted-laugh-suggestions.trycloudflare.com/](https://sterling-resulted-laugh-suggestions.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://sterling-resulted-laugh-suggestions.trycloudflare.com/student/](https://sterling-resulted-laugh-suggestions.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://sterling-resulted-laugh-suggestions.trycloudflare.com/faculty/](https://sterling-resulted-laugh-suggestions.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://sterling-resulted-laugh-suggestions.trycloudflare.com/admin/](https://sterling-resulted-laugh-suggestions.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://sterling-resulted-laugh-suggestions.trycloudflare.com/health](https://sterling-resulted-laugh-suggestions.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://crawford-manager-analysis-trustees.trycloudflare.com/](https://crawford-manager-analysis-trustees.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://crawford-manager-analysis-trustees.trycloudflare.com/student/](https://crawford-manager-analysis-trustees.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://crawford-manager-analysis-trustees.trycloudflare.com/faculty/](https://crawford-manager-analysis-trustees.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://crawford-manager-analysis-trustees.trycloudflare.com/admin/](https://crawford-manager-analysis-trustees.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://crawford-manager-analysis-trustees.trycloudflare.com/health](https://crawford-manager-analysis-trustees.trycloudflare.com/health)** |
 
 ---
 
