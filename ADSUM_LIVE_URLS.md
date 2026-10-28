@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 04:13:49 IST`  
+> **Last Rotated & Published:** `2026-10-29 04:35:31 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/](https://commissions-stay-journalists-edmonton.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/student/](https://commissions-stay-journalists-edmonton.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/faculty/](https://commissions-stay-journalists-edmonton.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/admin/](https://commissions-stay-journalists-edmonton.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://commissions-stay-journalists-edmonton.trycloudflare.com/health](https://commissions-stay-journalists-edmonton.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://installations-conclude-sand-raymond.trycloudflare.com/](https://installations-conclude-sand-raymond.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://installations-conclude-sand-raymond.trycloudflare.com/student/](https://installations-conclude-sand-raymond.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://installations-conclude-sand-raymond.trycloudflare.com/faculty/](https://installations-conclude-sand-raymond.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://installations-conclude-sand-raymond.trycloudflare.com/admin/](https://installations-conclude-sand-raymond.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://installations-conclude-sand-raymond.trycloudflare.com/health](https://installations-conclude-sand-raymond.trycloudflare.com/health)** |
 
 ---
 
