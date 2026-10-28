@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** 🟢 Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-27 20:52:04 IST`  
+> **Last Rotated & Published:** `2026-10-28 20:58:36 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://off-derived-hay-oct.trycloudflare.com/](https://off-derived-hay-oct.trycloudflare.com/)** |
-| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://off-derived-hay-oct.trycloudflare.com/student/](https://off-derived-hay-oct.trycloudflare.com/student/)** |
-| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://off-derived-hay-oct.trycloudflare.com/faculty/](https://off-derived-hay-oct.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://off-derived-hay-oct.trycloudflare.com/admin/](https://off-derived-hay-oct.trycloudflare.com/admin/)** |
-| **⚡ Core Backend Health** | Developers & System Monitors | **[https://off-derived-hay-oct.trycloudflare.com/health](https://off-derived-hay-oct.trycloudflare.com/health)** |
+| **🚀 Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://contamination-knew-gets-hometown.trycloudflare.com/](https://contamination-knew-gets-hometown.trycloudflare.com/)** |
+| **📱 Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://contamination-knew-gets-hometown.trycloudflare.com/student/](https://contamination-knew-gets-hometown.trycloudflare.com/student/)** |
+| **👨‍🏫 Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://contamination-knew-gets-hometown.trycloudflare.com/faculty/](https://contamination-knew-gets-hometown.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://contamination-knew-gets-hometown.trycloudflare.com/admin/](https://contamination-knew-gets-hometown.trycloudflare.com/admin/)** |
+| **⚡ Core Backend Health** | Developers & System Monitors | **[https://contamination-knew-gets-hometown.trycloudflare.com/health](https://contamination-knew-gets-hometown.trycloudflare.com/health)** |
 
 ---
 
