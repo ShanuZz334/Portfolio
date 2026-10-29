@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-29 23:08:49 IST`  
+> **Last Rotated & Published:** `2026-10-29 23:11:38 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://tribe-pipe-ids-sega.trycloudflare.com/](https://tribe-pipe-ids-sega.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://tribe-pipe-ids-sega.trycloudflare.com/student/](https://tribe-pipe-ids-sega.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://tribe-pipe-ids-sega.trycloudflare.com/faculty/](https://tribe-pipe-ids-sega.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://tribe-pipe-ids-sega.trycloudflare.com/admin/](https://tribe-pipe-ids-sega.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://tribe-pipe-ids-sega.trycloudflare.com/health](https://tribe-pipe-ids-sega.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://candy-flexible-consumer-humanitarian.trycloudflare.com/](https://candy-flexible-consumer-humanitarian.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://candy-flexible-consumer-humanitarian.trycloudflare.com/student/](https://candy-flexible-consumer-humanitarian.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://candy-flexible-consumer-humanitarian.trycloudflare.com/faculty/](https://candy-flexible-consumer-humanitarian.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://candy-flexible-consumer-humanitarian.trycloudflare.com/admin/](https://candy-flexible-consumer-humanitarian.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://candy-flexible-consumer-humanitarian.trycloudflare.com/health](https://candy-flexible-consumer-humanitarian.trycloudflare.com/health)** |
 
 ---
 
