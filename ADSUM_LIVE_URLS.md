@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-30 01:20:14 IST`  
+> **Last Rotated & Published:** `2026-10-30 01:56:57 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://situations-solution-gave-satisfied.trycloudflare.com/](https://situations-solution-gave-satisfied.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://situations-solution-gave-satisfied.trycloudflare.com/student/](https://situations-solution-gave-satisfied.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://situations-solution-gave-satisfied.trycloudflare.com/faculty/](https://situations-solution-gave-satisfied.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://situations-solution-gave-satisfied.trycloudflare.com/admin/](https://situations-solution-gave-satisfied.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://situations-solution-gave-satisfied.trycloudflare.com/health](https://situations-solution-gave-satisfied.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/](https://physicians-latina-chamber-relevance.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/student/](https://physicians-latina-chamber-relevance.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/faculty/](https://physicians-latina-chamber-relevance.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/admin/](https://physicians-latina-chamber-relevance.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://physicians-latina-chamber-relevance.trycloudflare.com/health](https://physicians-latina-chamber-relevance.trycloudflare.com/health)** |
 
 ---
 
