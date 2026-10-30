@@ -1,22 +1,36 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
-> **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-30 12:34:31 IST`  
+> **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
+> **Last Rotated & Published:** `2026-10-30 18:19:20 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
 
-### Direct Shareable Access Links
+### Permanent Institutional Domain Links
 
-Share any of these links directly with students, teachers, or administrators. All portals run live over high-speed HTTPS Cloudflare Edge:
+These permanent HTTPS endpoints are statically bound and never change:
 
-| Portal Tier | Target Audience | Direct Live URL |
-| :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://greg-electronic-wild-filling.trycloudflare.com/](https://greg-electronic-wild-filling.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://greg-electronic-wild-filling.trycloudflare.com/student/](https://greg-electronic-wild-filling.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://greg-electronic-wild-filling.trycloudflare.com/faculty/](https://greg-electronic-wild-filling.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://greg-electronic-wild-filling.trycloudflare.com/admin/](https://greg-electronic-wild-filling.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://greg-electronic-wild-filling.trycloudflare.com/health](https://greg-electronic-wild-filling.trycloudflare.com/health)** |
+| Portal Tier | Direct Live URL |
+| :--- | :--- |
+| **Master Ecosystem Hub** | **[https://api.praxistrade.website/](https://api.praxistrade.website/)** |
+| **Student Mobile Web App** | **[https://api.praxistrade.website/student/](https://api.praxistrade.website/student/)** |
+| **Teacher / Faculty Portal** | **[https://api.praxistrade.website/faculty/](https://api.praxistrade.website/faculty/)** |
+| **Administrator Governance** | **[https://api.praxistrade.website/admin/](https://api.praxistrade.website/admin/)** |
+| **Core Backend Health** | **[https://api.praxistrade.website/health](https://api.praxistrade.website/health)** |
+
+---
+
+### Dynamic Rotating Cloudflare Edge Links
+
+Alternate high-speed edge URL:
+
+| Portal Tier | Direct Rotating URL |
+| :--- | :--- |
+| **Master Ecosystem Hub** | **[https://receptor-wiring-counts-season.trycloudflare.com/](https://receptor-wiring-counts-season.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://receptor-wiring-counts-season.trycloudflare.com/student/](https://receptor-wiring-counts-season.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://receptor-wiring-counts-season.trycloudflare.com/faculty/](https://receptor-wiring-counts-season.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://receptor-wiring-counts-season.trycloudflare.com/admin/](https://receptor-wiring-counts-season.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://receptor-wiring-counts-season.trycloudflare.com/health](https://receptor-wiring-counts-season.trycloudflare.com/health)** |
 
 ---
 
