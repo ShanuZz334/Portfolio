@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://sixth-rapid-bullet-talent.trycloudflare.com
