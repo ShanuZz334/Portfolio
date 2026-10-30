@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-30 01:56:57 IST`  
+> **Last Rotated & Published:** `2026-10-30 12:32:35 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/](https://physicians-latina-chamber-relevance.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/student/](https://physicians-latina-chamber-relevance.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/faculty/](https://physicians-latina-chamber-relevance.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://physicians-latina-chamber-relevance.trycloudflare.com/admin/](https://physicians-latina-chamber-relevance.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://physicians-latina-chamber-relevance.trycloudflare.com/health](https://physicians-latina-chamber-relevance.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://api.trycloudflare.com/](https://api.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://api.trycloudflare.com/student/](https://api.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://api.trycloudflare.com/faculty/](https://api.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://api.trycloudflare.com/admin/](https://api.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://api.trycloudflare.com/health](https://api.trycloudflare.com/health)** |
 
 ---
 

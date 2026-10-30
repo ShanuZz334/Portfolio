@@ -1,1 +1,1 @@
-https://physicians-latina-chamber-relevance.trycloudflare.com
+https://api.trycloudflare.com
