@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Public Tunnel Active  
-> **Last Rotated & Published:** `2026-10-30 12:32:43 IST`  
+> **Last Rotated & Published:** `2026-10-30 12:34:31 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -12,11 +12,11 @@ Share any of these links directly with students, teachers, or administrators. Al
 
 | Portal Tier | Target Audience | Direct Live URL |
 | :--- | :--- | :--- |
-| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://sixth-rapid-bullet-talent.trycloudflare.com/](https://sixth-rapid-bullet-talent.trycloudflare.com/)** |
-| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://sixth-rapid-bullet-talent.trycloudflare.com/student/](https://sixth-rapid-bullet-talent.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://sixth-rapid-bullet-talent.trycloudflare.com/faculty/](https://sixth-rapid-bullet-talent.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://sixth-rapid-bullet-talent.trycloudflare.com/admin/](https://sixth-rapid-bullet-talent.trycloudflare.com/admin/)** |
-| **Core Backend Health** | Developers & System Monitors | **[https://sixth-rapid-bullet-talent.trycloudflare.com/health](https://sixth-rapid-bullet-talent.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | All Users (Portal Switcher) | **[https://greg-electronic-wild-filling.trycloudflare.com/](https://greg-electronic-wild-filling.trycloudflare.com/)** |
+| **Student Mobile Web App** | Students (Check-In HUD & Analytics) | **[https://greg-electronic-wild-filling.trycloudflare.com/student/](https://greg-electronic-wild-filling.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | Professors (Podium Synthesizer & Mesh) | **[https://greg-electronic-wild-filling.trycloudflare.com/faculty/](https://greg-electronic-wild-filling.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | Institutional Admins (Geofence & Fraud) | **[https://greg-electronic-wild-filling.trycloudflare.com/admin/](https://greg-electronic-wild-filling.trycloudflare.com/admin/)** |
+| **Core Backend Health** | Developers & System Monitors | **[https://greg-electronic-wild-filling.trycloudflare.com/health](https://greg-electronic-wild-filling.trycloudflare.com/health)** |
 
 ---
 
