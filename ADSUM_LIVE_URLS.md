@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-10-30 18:19:20 IST`  
+> **Last Rotated & Published:** `2026-10-30 20:35:20 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://receptor-wiring-counts-season.trycloudflare.com/](https://receptor-wiring-counts-season.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://receptor-wiring-counts-season.trycloudflare.com/student/](https://receptor-wiring-counts-season.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://receptor-wiring-counts-season.trycloudflare.com/faculty/](https://receptor-wiring-counts-season.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://receptor-wiring-counts-season.trycloudflare.com/admin/](https://receptor-wiring-counts-season.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://receptor-wiring-counts-season.trycloudflare.com/health](https://receptor-wiring-counts-season.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://cork-dealt-lip-age.trycloudflare.com/](https://cork-dealt-lip-age.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://cork-dealt-lip-age.trycloudflare.com/student/](https://cork-dealt-lip-age.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://cork-dealt-lip-age.trycloudflare.com/faculty/](https://cork-dealt-lip-age.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://cork-dealt-lip-age.trycloudflare.com/admin/](https://cork-dealt-lip-age.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://cork-dealt-lip-age.trycloudflare.com/health](https://cork-dealt-lip-age.trycloudflare.com/health)** |
 
 ---
 
