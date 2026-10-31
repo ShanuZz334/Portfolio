@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-10-31 19:53:56 IST`  
+> **Last Rotated & Published:** `2026-10-31 22:25:51 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://make-sie-territory-cargo.trycloudflare.com/](https://make-sie-territory-cargo.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://make-sie-territory-cargo.trycloudflare.com/student/](https://make-sie-territory-cargo.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://make-sie-territory-cargo.trycloudflare.com/faculty/](https://make-sie-territory-cargo.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://make-sie-territory-cargo.trycloudflare.com/admin/](https://make-sie-territory-cargo.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://make-sie-territory-cargo.trycloudflare.com/health](https://make-sie-territory-cargo.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://suites-musicians-admission-reprint.trycloudflare.com/](https://suites-musicians-admission-reprint.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://suites-musicians-admission-reprint.trycloudflare.com/student/](https://suites-musicians-admission-reprint.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://suites-musicians-admission-reprint.trycloudflare.com/faculty/](https://suites-musicians-admission-reprint.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://suites-musicians-admission-reprint.trycloudflare.com/admin/](https://suites-musicians-admission-reprint.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://suites-musicians-admission-reprint.trycloudflare.com/health](https://suites-musicians-admission-reprint.trycloudflare.com/health)** |
 
 ---
 
