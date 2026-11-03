@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-03 13:36:30 IST`  
+> **Last Rotated & Published:** `2026-11-03 13:39:51 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://acrobat-aim-springfield-air.trycloudflare.com/](https://acrobat-aim-springfield-air.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://acrobat-aim-springfield-air.trycloudflare.com/student/](https://acrobat-aim-springfield-air.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://acrobat-aim-springfield-air.trycloudflare.com/faculty/](https://acrobat-aim-springfield-air.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://acrobat-aim-springfield-air.trycloudflare.com/admin/](https://acrobat-aim-springfield-air.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://acrobat-aim-springfield-air.trycloudflare.com/health](https://acrobat-aim-springfield-air.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://editions-touched-sends-afterwards.trycloudflare.com/](https://editions-touched-sends-afterwards.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://editions-touched-sends-afterwards.trycloudflare.com/student/](https://editions-touched-sends-afterwards.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://editions-touched-sends-afterwards.trycloudflare.com/faculty/](https://editions-touched-sends-afterwards.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://editions-touched-sends-afterwards.trycloudflare.com/admin/](https://editions-touched-sends-afterwards.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://editions-touched-sends-afterwards.trycloudflare.com/health](https://editions-touched-sends-afterwards.trycloudflare.com/health)** |
 
 ---
 
