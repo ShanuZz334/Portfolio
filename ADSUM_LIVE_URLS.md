@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-03 15:20:52 IST`  
+> **Last Rotated & Published:** `2026-11-03 15:33:41 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/](https://friendship-multi-forge-deutschland.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/student/](https://friendship-multi-forge-deutschland.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/faculty/](https://friendship-multi-forge-deutschland.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/admin/](https://friendship-multi-forge-deutschland.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/health](https://friendship-multi-forge-deutschland.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://varying-generator-involve-terminals.trycloudflare.com/](https://varying-generator-involve-terminals.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://varying-generator-involve-terminals.trycloudflare.com/student/](https://varying-generator-involve-terminals.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://varying-generator-involve-terminals.trycloudflare.com/faculty/](https://varying-generator-involve-terminals.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://varying-generator-involve-terminals.trycloudflare.com/admin/](https://varying-generator-involve-terminals.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://varying-generator-involve-terminals.trycloudflare.com/health](https://varying-generator-involve-terminals.trycloudflare.com/health)** |
 
 ---
 
