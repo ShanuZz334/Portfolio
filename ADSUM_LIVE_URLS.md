@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-03 13:39:51 IST`  
+> **Last Rotated & Published:** `2026-11-03 15:20:52 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://editions-touched-sends-afterwards.trycloudflare.com/](https://editions-touched-sends-afterwards.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://editions-touched-sends-afterwards.trycloudflare.com/student/](https://editions-touched-sends-afterwards.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://editions-touched-sends-afterwards.trycloudflare.com/faculty/](https://editions-touched-sends-afterwards.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://editions-touched-sends-afterwards.trycloudflare.com/admin/](https://editions-touched-sends-afterwards.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://editions-touched-sends-afterwards.trycloudflare.com/health](https://editions-touched-sends-afterwards.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/](https://friendship-multi-forge-deutschland.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/student/](https://friendship-multi-forge-deutschland.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/faculty/](https://friendship-multi-forge-deutschland.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/admin/](https://friendship-multi-forge-deutschland.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://friendship-multi-forge-deutschland.trycloudflare.com/health](https://friendship-multi-forge-deutschland.trycloudflare.com/health)** |
 
 ---
 
