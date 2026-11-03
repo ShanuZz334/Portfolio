@@ -1,2 +1,2 @@
-https://renaissance-pitch-picture-equation.trycloudflare.com
-http://172.26.34.101:8000
+https://api.trycloudflare.com
+http://10.248.189.153:8000
