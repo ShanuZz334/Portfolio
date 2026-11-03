@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-10-31 23:25:19 IST`  
+> **Last Rotated & Published:** `2026-11-03 13:22:17 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://enter-sword-luggage-reports.trycloudflare.com/](https://enter-sword-luggage-reports.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://enter-sword-luggage-reports.trycloudflare.com/student/](https://enter-sword-luggage-reports.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://enter-sword-luggage-reports.trycloudflare.com/faculty/](https://enter-sword-luggage-reports.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://enter-sword-luggage-reports.trycloudflare.com/admin/](https://enter-sword-luggage-reports.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://enter-sword-luggage-reports.trycloudflare.com/health](https://enter-sword-luggage-reports.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://listing-foundations-swap-phone.trycloudflare.com/](https://listing-foundations-swap-phone.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://listing-foundations-swap-phone.trycloudflare.com/student/](https://listing-foundations-swap-phone.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://listing-foundations-swap-phone.trycloudflare.com/faculty/](https://listing-foundations-swap-phone.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://listing-foundations-swap-phone.trycloudflare.com/admin/](https://listing-foundations-swap-phone.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://listing-foundations-swap-phone.trycloudflare.com/health](https://listing-foundations-swap-phone.trycloudflare.com/health)** |
 
 ---
 
