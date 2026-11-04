@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-04 11:52:30 IST`  
+> **Last Rotated & Published:** `2026-11-04 12:02:11 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/](https://alloy-authorization-copyrights-divided.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/student/](https://alloy-authorization-copyrights-divided.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/faculty/](https://alloy-authorization-copyrights-divided.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/admin/](https://alloy-authorization-copyrights-divided.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/health](https://alloy-authorization-copyrights-divided.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://void-loans-elsewhere-smile.trycloudflare.com/](https://void-loans-elsewhere-smile.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://void-loans-elsewhere-smile.trycloudflare.com/student/](https://void-loans-elsewhere-smile.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://void-loans-elsewhere-smile.trycloudflare.com/faculty/](https://void-loans-elsewhere-smile.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://void-loans-elsewhere-smile.trycloudflare.com/admin/](https://void-loans-elsewhere-smile.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://void-loans-elsewhere-smile.trycloudflare.com/health](https://void-loans-elsewhere-smile.trycloudflare.com/health)** |
 
 ---
 
