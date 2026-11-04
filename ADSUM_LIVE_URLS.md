@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-03 16:04:29 IST`  
+> **Last Rotated & Published:** `2026-11-04 11:52:30 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://distance-ons-consent-deer.trycloudflare.com/](https://distance-ons-consent-deer.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://distance-ons-consent-deer.trycloudflare.com/student/](https://distance-ons-consent-deer.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://distance-ons-consent-deer.trycloudflare.com/faculty/](https://distance-ons-consent-deer.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://distance-ons-consent-deer.trycloudflare.com/admin/](https://distance-ons-consent-deer.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://distance-ons-consent-deer.trycloudflare.com/health](https://distance-ons-consent-deer.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/](https://alloy-authorization-copyrights-divided.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/student/](https://alloy-authorization-copyrights-divided.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/faculty/](https://alloy-authorization-copyrights-divided.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/admin/](https://alloy-authorization-copyrights-divided.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://alloy-authorization-copyrights-divided.trycloudflare.com/health](https://alloy-authorization-copyrights-divided.trycloudflare.com/health)** |
 
 ---
 
