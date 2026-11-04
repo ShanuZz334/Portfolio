@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-04 21:09:53 IST`  
+> **Last Rotated & Published:** `2026-11-04 22:56:42 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://mountain-era-financing-identified.trycloudflare.com/](https://mountain-era-financing-identified.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://mountain-era-financing-identified.trycloudflare.com/student/](https://mountain-era-financing-identified.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://mountain-era-financing-identified.trycloudflare.com/faculty/](https://mountain-era-financing-identified.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://mountain-era-financing-identified.trycloudflare.com/admin/](https://mountain-era-financing-identified.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://mountain-era-financing-identified.trycloudflare.com/health](https://mountain-era-financing-identified.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://uploaded-photograph-fraser-under.trycloudflare.com/](https://uploaded-photograph-fraser-under.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://uploaded-photograph-fraser-under.trycloudflare.com/student/](https://uploaded-photograph-fraser-under.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://uploaded-photograph-fraser-under.trycloudflare.com/faculty/](https://uploaded-photograph-fraser-under.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://uploaded-photograph-fraser-under.trycloudflare.com/admin/](https://uploaded-photograph-fraser-under.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://uploaded-photograph-fraser-under.trycloudflare.com/health](https://uploaded-photograph-fraser-under.trycloudflare.com/health)** |
 
 ---
 
