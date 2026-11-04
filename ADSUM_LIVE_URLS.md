@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-04 12:02:11 IST`  
+> **Last Rotated & Published:** `2026-11-04 13:14:46 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://void-loans-elsewhere-smile.trycloudflare.com/](https://void-loans-elsewhere-smile.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://void-loans-elsewhere-smile.trycloudflare.com/student/](https://void-loans-elsewhere-smile.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://void-loans-elsewhere-smile.trycloudflare.com/faculty/](https://void-loans-elsewhere-smile.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://void-loans-elsewhere-smile.trycloudflare.com/admin/](https://void-loans-elsewhere-smile.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://void-loans-elsewhere-smile.trycloudflare.com/health](https://void-loans-elsewhere-smile.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://tin-conviction-file-mileage.trycloudflare.com/](https://tin-conviction-file-mileage.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://tin-conviction-file-mileage.trycloudflare.com/student/](https://tin-conviction-file-mileage.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://tin-conviction-file-mileage.trycloudflare.com/faculty/](https://tin-conviction-file-mileage.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://tin-conviction-file-mileage.trycloudflare.com/admin/](https://tin-conviction-file-mileage.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://tin-conviction-file-mileage.trycloudflare.com/health](https://tin-conviction-file-mileage.trycloudflare.com/health)** |
 
 ---
 
