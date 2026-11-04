@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-04 13:14:46 IST`  
+> **Last Rotated & Published:** `2026-11-04 21:08:36 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://tin-conviction-file-mileage.trycloudflare.com/](https://tin-conviction-file-mileage.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://tin-conviction-file-mileage.trycloudflare.com/student/](https://tin-conviction-file-mileage.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://tin-conviction-file-mileage.trycloudflare.com/faculty/](https://tin-conviction-file-mileage.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://tin-conviction-file-mileage.trycloudflare.com/admin/](https://tin-conviction-file-mileage.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://tin-conviction-file-mileage.trycloudflare.com/health](https://tin-conviction-file-mileage.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://buf-floppy-listed-ross.trycloudflare.com/](https://buf-floppy-listed-ross.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://buf-floppy-listed-ross.trycloudflare.com/student/](https://buf-floppy-listed-ross.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://buf-floppy-listed-ross.trycloudflare.com/faculty/](https://buf-floppy-listed-ross.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://buf-floppy-listed-ross.trycloudflare.com/admin/](https://buf-floppy-listed-ross.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://buf-floppy-listed-ross.trycloudflare.com/health](https://buf-floppy-listed-ross.trycloudflare.com/health)** |
 
 ---
 
