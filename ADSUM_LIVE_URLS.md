@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 15:05:49 IST`  
+> **Last Rotated & Published:** `2026-11-05 15:08:28 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://brown-commitment-mit-tide.trycloudflare.com/](https://brown-commitment-mit-tide.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://brown-commitment-mit-tide.trycloudflare.com/student/](https://brown-commitment-mit-tide.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://brown-commitment-mit-tide.trycloudflare.com/faculty/](https://brown-commitment-mit-tide.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://brown-commitment-mit-tide.trycloudflare.com/admin/](https://brown-commitment-mit-tide.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://brown-commitment-mit-tide.trycloudflare.com/health](https://brown-commitment-mit-tide.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://organization-agree-locks-paragraph.trycloudflare.com/](https://organization-agree-locks-paragraph.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://organization-agree-locks-paragraph.trycloudflare.com/student/](https://organization-agree-locks-paragraph.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://organization-agree-locks-paragraph.trycloudflare.com/faculty/](https://organization-agree-locks-paragraph.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://organization-agree-locks-paragraph.trycloudflare.com/admin/](https://organization-agree-locks-paragraph.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://organization-agree-locks-paragraph.trycloudflare.com/health](https://organization-agree-locks-paragraph.trycloudflare.com/health)** |
 
 ---
 
