@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 16:23:11 IST`  
+> **Last Rotated & Published:** `2026-11-05 16:32:51 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://totals-responsibility-muze-wallace.trycloudflare.com/](https://totals-responsibility-muze-wallace.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://totals-responsibility-muze-wallace.trycloudflare.com/student/](https://totals-responsibility-muze-wallace.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://totals-responsibility-muze-wallace.trycloudflare.com/faculty/](https://totals-responsibility-muze-wallace.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://totals-responsibility-muze-wallace.trycloudflare.com/admin/](https://totals-responsibility-muze-wallace.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://totals-responsibility-muze-wallace.trycloudflare.com/health](https://totals-responsibility-muze-wallace.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/](https://rep-nobody-bridal-amplifier.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/student/](https://rep-nobody-bridal-amplifier.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/faculty/](https://rep-nobody-bridal-amplifier.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/admin/](https://rep-nobody-bridal-amplifier.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/health](https://rep-nobody-bridal-amplifier.trycloudflare.com/health)** |
 
 ---
 
