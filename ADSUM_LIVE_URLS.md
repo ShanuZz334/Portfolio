@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 14:47:41 IST`  
+> **Last Rotated & Published:** `2026-11-05 15:05:49 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://highland-debug-bigger-relying.trycloudflare.com/](https://highland-debug-bigger-relying.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://highland-debug-bigger-relying.trycloudflare.com/student/](https://highland-debug-bigger-relying.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://highland-debug-bigger-relying.trycloudflare.com/faculty/](https://highland-debug-bigger-relying.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://highland-debug-bigger-relying.trycloudflare.com/admin/](https://highland-debug-bigger-relying.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://highland-debug-bigger-relying.trycloudflare.com/health](https://highland-debug-bigger-relying.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://brown-commitment-mit-tide.trycloudflare.com/](https://brown-commitment-mit-tide.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://brown-commitment-mit-tide.trycloudflare.com/student/](https://brown-commitment-mit-tide.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://brown-commitment-mit-tide.trycloudflare.com/faculty/](https://brown-commitment-mit-tide.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://brown-commitment-mit-tide.trycloudflare.com/admin/](https://brown-commitment-mit-tide.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://brown-commitment-mit-tide.trycloudflare.com/health](https://brown-commitment-mit-tide.trycloudflare.com/health)** |
 
 ---
 
