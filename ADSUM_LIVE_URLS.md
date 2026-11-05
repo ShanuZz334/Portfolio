@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 15:08:28 IST`  
+> **Last Rotated & Published:** `2026-11-05 15:58:28 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://organization-agree-locks-paragraph.trycloudflare.com/](https://organization-agree-locks-paragraph.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://organization-agree-locks-paragraph.trycloudflare.com/student/](https://organization-agree-locks-paragraph.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://organization-agree-locks-paragraph.trycloudflare.com/faculty/](https://organization-agree-locks-paragraph.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://organization-agree-locks-paragraph.trycloudflare.com/admin/](https://organization-agree-locks-paragraph.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://organization-agree-locks-paragraph.trycloudflare.com/health](https://organization-agree-locks-paragraph.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://practitioner-routers-metric-worldwide.trycloudflare.com/](https://practitioner-routers-metric-worldwide.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://practitioner-routers-metric-worldwide.trycloudflare.com/student/](https://practitioner-routers-metric-worldwide.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://practitioner-routers-metric-worldwide.trycloudflare.com/faculty/](https://practitioner-routers-metric-worldwide.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://practitioner-routers-metric-worldwide.trycloudflare.com/admin/](https://practitioner-routers-metric-worldwide.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://practitioner-routers-metric-worldwide.trycloudflare.com/health](https://practitioner-routers-metric-worldwide.trycloudflare.com/health)** |
 
 ---
 
