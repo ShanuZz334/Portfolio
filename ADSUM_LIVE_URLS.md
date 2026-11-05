@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 17:54:10 IST`  
+> **Last Rotated & Published:** `2026-11-05 20:41:38 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/student/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/faculty/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/admin/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/health](https://hawaiian-mayor-accurate-dame.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://meyer-buy-hat-dairy.trycloudflare.com/](https://meyer-buy-hat-dairy.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://meyer-buy-hat-dairy.trycloudflare.com/student/](https://meyer-buy-hat-dairy.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://meyer-buy-hat-dairy.trycloudflare.com/faculty/](https://meyer-buy-hat-dairy.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://meyer-buy-hat-dairy.trycloudflare.com/admin/](https://meyer-buy-hat-dairy.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://meyer-buy-hat-dairy.trycloudflare.com/health](https://meyer-buy-hat-dairy.trycloudflare.com/health)** |
 
 ---
 
