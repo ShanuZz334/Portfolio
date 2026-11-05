@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 14:40:37 IST`  
+> **Last Rotated & Published:** `2026-11-05 14:47:41 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://matters-orange-candles-auckland.trycloudflare.com/](https://matters-orange-candles-auckland.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://matters-orange-candles-auckland.trycloudflare.com/student/](https://matters-orange-candles-auckland.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://matters-orange-candles-auckland.trycloudflare.com/faculty/](https://matters-orange-candles-auckland.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://matters-orange-candles-auckland.trycloudflare.com/admin/](https://matters-orange-candles-auckland.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://matters-orange-candles-auckland.trycloudflare.com/health](https://matters-orange-candles-auckland.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://highland-debug-bigger-relying.trycloudflare.com/](https://highland-debug-bigger-relying.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://highland-debug-bigger-relying.trycloudflare.com/student/](https://highland-debug-bigger-relying.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://highland-debug-bigger-relying.trycloudflare.com/faculty/](https://highland-debug-bigger-relying.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://highland-debug-bigger-relying.trycloudflare.com/admin/](https://highland-debug-bigger-relying.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://highland-debug-bigger-relying.trycloudflare.com/health](https://highland-debug-bigger-relying.trycloudflare.com/health)** |
 
 ---
 
