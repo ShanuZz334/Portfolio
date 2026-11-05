@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 16:32:51 IST`  
+> **Last Rotated & Published:** `2026-11-05 17:54:10 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/](https://rep-nobody-bridal-amplifier.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/student/](https://rep-nobody-bridal-amplifier.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/faculty/](https://rep-nobody-bridal-amplifier.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/admin/](https://rep-nobody-bridal-amplifier.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://rep-nobody-bridal-amplifier.trycloudflare.com/health](https://rep-nobody-bridal-amplifier.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/student/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/faculty/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/admin/](https://hawaiian-mayor-accurate-dame.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://hawaiian-mayor-accurate-dame.trycloudflare.com/health](https://hawaiian-mayor-accurate-dame.trycloudflare.com/health)** |
 
 ---
 
