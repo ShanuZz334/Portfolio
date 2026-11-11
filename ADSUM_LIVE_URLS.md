@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-11 15:26:55 IST`  
+> **Last Rotated & Published:** `2026-11-11 18:42:58 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://compete-maine-thin-open.trycloudflare.com/](https://compete-maine-thin-open.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://compete-maine-thin-open.trycloudflare.com/student/](https://compete-maine-thin-open.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://compete-maine-thin-open.trycloudflare.com/faculty/](https://compete-maine-thin-open.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://compete-maine-thin-open.trycloudflare.com/admin/](https://compete-maine-thin-open.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://compete-maine-thin-open.trycloudflare.com/health](https://compete-maine-thin-open.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://mailman-participant-yen-bless.trycloudflare.com/](https://mailman-participant-yen-bless.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://mailman-participant-yen-bless.trycloudflare.com/student/](https://mailman-participant-yen-bless.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://mailman-participant-yen-bless.trycloudflare.com/faculty/](https://mailman-participant-yen-bless.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://mailman-participant-yen-bless.trycloudflare.com/admin/](https://mailman-participant-yen-bless.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://mailman-participant-yen-bless.trycloudflare.com/health](https://mailman-participant-yen-bless.trycloudflare.com/health)** |
 
 ---
 
