@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-05 20:41:38 IST`  
+> **Last Rotated & Published:** `2026-11-11 15:26:55 IST`  
 > **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
 
 ---
@@ -26,11 +26,11 @@ Alternate high-speed edge URL:
 
 | Portal Tier | Direct Rotating URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://meyer-buy-hat-dairy.trycloudflare.com/](https://meyer-buy-hat-dairy.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://meyer-buy-hat-dairy.trycloudflare.com/student/](https://meyer-buy-hat-dairy.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://meyer-buy-hat-dairy.trycloudflare.com/faculty/](https://meyer-buy-hat-dairy.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://meyer-buy-hat-dairy.trycloudflare.com/admin/](https://meyer-buy-hat-dairy.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://meyer-buy-hat-dairy.trycloudflare.com/health](https://meyer-buy-hat-dairy.trycloudflare.com/health)** |
+| **Master Ecosystem Hub** | **[https://compete-maine-thin-open.trycloudflare.com/](https://compete-maine-thin-open.trycloudflare.com/)** |
+| **Student Mobile Web App** | **[https://compete-maine-thin-open.trycloudflare.com/student/](https://compete-maine-thin-open.trycloudflare.com/student/)** |
+| **Teacher / Faculty Portal** | **[https://compete-maine-thin-open.trycloudflare.com/faculty/](https://compete-maine-thin-open.trycloudflare.com/faculty/)** |
+| **Administrator Governance** | **[https://compete-maine-thin-open.trycloudflare.com/admin/](https://compete-maine-thin-open.trycloudflare.com/admin/)** |
+| **Core Backend Health** | **[https://compete-maine-thin-open.trycloudflare.com/health](https://compete-maine-thin-open.trycloudflare.com/health)** |
 
 ---
 
