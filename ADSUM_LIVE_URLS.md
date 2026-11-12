@@ -1,43 +1,57 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Rotated & Published:** `2026-11-11 18:42:58 IST`  
-> **Repository:** [ShanuZz334/Portfolio](https://github.com/ShanuZz334/Portfolio)
+> **Last Updated:** `2026-11-12 17:48:14 IST`  
+> **Host LAN Wi-Fi:** `172.26.95.226`  
+> **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
 
-### Permanent Institutional Domain Links
+### Permanent Institutional Domain Links (Always Active)
 
 These permanent HTTPS endpoints are statically bound and never change:
 
-| Portal Tier | Direct Live URL |
-| :--- | :--- |
-| **Master Ecosystem Hub** | **[https://api.praxistrade.website/](https://api.praxistrade.website/)** |
-| **Student Mobile Web App** | **[https://api.praxistrade.website/student/](https://api.praxistrade.website/student/)** |
-| **Teacher / Faculty Portal** | **[https://api.praxistrade.website/faculty/](https://api.praxistrade.website/faculty/)** |
-| **Administrator Governance** | **[https://api.praxistrade.website/admin/](https://api.praxistrade.website/admin/)** |
-| **Core Backend Health** | **[https://api.praxistrade.website/health](https://api.praxistrade.website/health)** |
+| Portal Tier | Direct Live URL | Purpose |
+| :--- | :--- | :--- |
+| **📱 Student Mobile Web App** | **[https://api.praxistrade.website/student/](https://api.praxistrade.website/student/)** | Student Check-In HUD, BLE Mesh, Timetable, Analytics |
+| **🎓 Teacher / Faculty Portal** | **[https://api.praxistrade.website/faculty/](https://api.praxistrade.website/faculty/)** | Live Podium Radar, Ultrasonic Broadcast, Seating Topology |
+| **🛡️ Administrator Governance** | **[https://api.praxistrade.website/admin/](https://api.praxistrade.website/admin/)** | Geofence Polygon Builder, Anti-Spoof Telemetry Bus |
+| **🌐 Master Ecosystem Hub** | **[https://api.praxistrade.website/](https://api.praxistrade.website/)** | Single-Origin Launcher & Unified Gateway |
+| **⚡ Core Backend Health** | **[https://api.praxistrade.website/health](https://api.praxistrade.website/health)** | REST API Gateway Health Endpoint |
 
 ---
 
-### Dynamic Rotating Cloudflare Edge Links
+### Dynamic Rotating Cloudflare Edge Links (Alternate Quick Tunnel)
 
-Alternate high-speed edge URL:
+Alternate high-speed edge URL for testing on external phones & laptops:
 
-| Portal Tier | Direct Rotating URL |
+| Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **Master Ecosystem Hub** | **[https://mailman-participant-yen-bless.trycloudflare.com/](https://mailman-participant-yen-bless.trycloudflare.com/)** |
-| **Student Mobile Web App** | **[https://mailman-participant-yen-bless.trycloudflare.com/student/](https://mailman-participant-yen-bless.trycloudflare.com/student/)** |
-| **Teacher / Faculty Portal** | **[https://mailman-participant-yen-bless.trycloudflare.com/faculty/](https://mailman-participant-yen-bless.trycloudflare.com/faculty/)** |
-| **Administrator Governance** | **[https://mailman-participant-yen-bless.trycloudflare.com/admin/](https://mailman-participant-yen-bless.trycloudflare.com/admin/)** |
-| **Core Backend Health** | **[https://mailman-participant-yen-bless.trycloudflare.com/health](https://mailman-participant-yen-bless.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://medications-favorite-helped-assist.trycloudflare.com/student/](https://medications-favorite-helped-assist.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://medications-favorite-helped-assist.trycloudflare.com/faculty/](https://medications-favorite-helped-assist.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://medications-favorite-helped-assist.trycloudflare.com/admin/](https://medications-favorite-helped-assist.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://medications-favorite-helped-assist.trycloudflare.com/](https://medications-favorite-helped-assist.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://medications-favorite-helped-assist.trycloudflare.com/health](https://medications-favorite-helped-assist.trycloudflare.com/health)** |
+
+---
+
+### Localhost & LAN Access (For Same PC or Wi-Fi Testing)
+
+| Portal Tier | Localhost URL | LAN Wi-Fi URL |
+| :--- | :--- | :--- |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.95.226:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.95.226:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.95.226:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.95.226:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.95.226:5050/health` |
 
 ---
 
 ### Live Verification Features Active
-1. **Tier 1 (Student Mobile App):** Flutter Web edition matching university portal aesthetics with 3.5s sequenced HUD (`GPS -> Sound -> Mesh -> Face`).
+1. **Tier 1 (Student Mobile App):** Flutter Web edition with 3.5s sequenced HUD (`GPS -> BLE Mesh -> Ultrasound -> Face`).
 2. **Tier 2 (Faculty Web Portal):** HTML5 Web Audio $17.1 - 18.2\text{ kHz}$ acoustic synthesizer, interactive live force-directed mesh visualizer, and manual audit override.
 3. **Tier 3 (Admin Web Dashboard):** Jordan Curve Ray-Casting campus polygon builder, real-time anti-tamper fraud stream, and hardware UUID unbind registry.
 4. **Adsum Core Backend:** 80-point trust fortress engine intercepting the door-crack corridor eavesdropper attack vector.
 
 *Auto-generated and committed by `ADSUM Master Orchestrator`.*
+
