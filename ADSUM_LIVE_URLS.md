@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-12 20:26:42 IST`  
+> **Last Updated:** `2026-11-12 20:39:18 IST`  
 > **Host LAN Wi-Fi:** `172.26.95.226`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://fees-collaboration-toll-provided.trycloudflare.com/student/](https://fees-collaboration-toll-provided.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://fees-collaboration-toll-provided.trycloudflare.com/faculty/](https://fees-collaboration-toll-provided.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://fees-collaboration-toll-provided.trycloudflare.com/admin/](https://fees-collaboration-toll-provided.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://fees-collaboration-toll-provided.trycloudflare.com/](https://fees-collaboration-toll-provided.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://fees-collaboration-toll-provided.trycloudflare.com/health](https://fees-collaboration-toll-provided.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://salmon-represented-michel-davis.trycloudflare.com/student/](https://salmon-represented-michel-davis.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://salmon-represented-michel-davis.trycloudflare.com/faculty/](https://salmon-represented-michel-davis.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://salmon-represented-michel-davis.trycloudflare.com/admin/](https://salmon-represented-michel-davis.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://salmon-represented-michel-davis.trycloudflare.com/](https://salmon-represented-michel-davis.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://salmon-represented-michel-davis.trycloudflare.com/health](https://salmon-represented-michel-davis.trycloudflare.com/health)** |
 
 ---
 
