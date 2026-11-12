@@ -1,9 +1,9 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-12 20:39:38 IST`  
+> **Last Updated:** `2026-11-12 21:30:02 IST`  
 > **Host LAN Wi-Fi:** `172.26.95.226`  
-> **Local Gateway Port:** `8051` | **Backend API Port:** `5051`  
+> **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://fewer-angel-remain-strong.trycloudflare.com/student/](https://fewer-angel-remain-strong.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://fewer-angel-remain-strong.trycloudflare.com/faculty/](https://fewer-angel-remain-strong.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://fewer-angel-remain-strong.trycloudflare.com/admin/](https://fewer-angel-remain-strong.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://fewer-angel-remain-strong.trycloudflare.com/](https://fewer-angel-remain-strong.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://fewer-angel-remain-strong.trycloudflare.com/health](https://fewer-angel-remain-strong.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/student/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/faculty/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/admin/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/health](https://minimal-relatives-ultimate-niagara.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8051/student/` | `http://172.26.95.226:8051/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8051/faculty/` | `http://172.26.95.226:8051/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8051/admin/` | `http://172.26.95.226:8051/admin/` |
-| **🌐 Master Hub** | `http://localhost:8051/` | `http://172.26.95.226:8051/` |
-| **⚡ Backend Health** | `http://localhost:5051/health` | `http://172.26.95.226:5051/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.95.226:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.95.226:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.95.226:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.95.226:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.95.226:5050/health` |
 
 ---
 
