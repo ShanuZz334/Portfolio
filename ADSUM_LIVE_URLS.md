@@ -1,9 +1,9 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-12 18:38:29 IST`  
+> **Last Updated:** `2026-11-12 20:26:42 IST`  
 > **Host LAN Wi-Fi:** `172.26.95.226`  
-> **Local Gateway Port:** `8050` | **Backend API Port:** `5051`  
+> **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://bacterial-affect-parcel-belongs.trycloudflare.com/student/](https://bacterial-affect-parcel-belongs.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://bacterial-affect-parcel-belongs.trycloudflare.com/faculty/](https://bacterial-affect-parcel-belongs.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://bacterial-affect-parcel-belongs.trycloudflare.com/admin/](https://bacterial-affect-parcel-belongs.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://bacterial-affect-parcel-belongs.trycloudflare.com/](https://bacterial-affect-parcel-belongs.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://bacterial-affect-parcel-belongs.trycloudflare.com/health](https://bacterial-affect-parcel-belongs.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://fees-collaboration-toll-provided.trycloudflare.com/student/](https://fees-collaboration-toll-provided.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://fees-collaboration-toll-provided.trycloudflare.com/faculty/](https://fees-collaboration-toll-provided.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://fees-collaboration-toll-provided.trycloudflare.com/admin/](https://fees-collaboration-toll-provided.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://fees-collaboration-toll-provided.trycloudflare.com/](https://fees-collaboration-toll-provided.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://fees-collaboration-toll-provided.trycloudflare.com/health](https://fees-collaboration-toll-provided.trycloudflare.com/health)** |
 
 ---
 
@@ -43,7 +43,7 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 | **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.95.226:8050/faculty/` |
 | **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.95.226:8050/admin/` |
 | **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.95.226:8050/` |
-| **⚡ Backend Health** | `http://localhost:5051/health` | `http://172.26.95.226:5051/health` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.95.226:5050/health` |
 
 ---
 
