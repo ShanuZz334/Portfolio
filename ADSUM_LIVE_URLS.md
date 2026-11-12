@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-12 17:48:14 IST`  
+> **Last Updated:** `2026-11-12 17:51:03 IST`  
 > **Host LAN Wi-Fi:** `172.26.95.226`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://medications-favorite-helped-assist.trycloudflare.com/student/](https://medications-favorite-helped-assist.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://medications-favorite-helped-assist.trycloudflare.com/faculty/](https://medications-favorite-helped-assist.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://medications-favorite-helped-assist.trycloudflare.com/admin/](https://medications-favorite-helped-assist.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://medications-favorite-helped-assist.trycloudflare.com/](https://medications-favorite-helped-assist.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://medications-favorite-helped-assist.trycloudflare.com/health](https://medications-favorite-helped-assist.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://shape-clerk-grey-suggests.trycloudflare.com/student/](https://shape-clerk-grey-suggests.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://shape-clerk-grey-suggests.trycloudflare.com/faculty/](https://shape-clerk-grey-suggests.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://shape-clerk-grey-suggests.trycloudflare.com/admin/](https://shape-clerk-grey-suggests.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://shape-clerk-grey-suggests.trycloudflare.com/](https://shape-clerk-grey-suggests.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://shape-clerk-grey-suggests.trycloudflare.com/health](https://shape-clerk-grey-suggests.trycloudflare.com/health)** |
 
 ---
 
