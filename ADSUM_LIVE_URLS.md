@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-13 10:56:07 IST`  
-> **Host LAN Wi-Fi:** `10.35.132.149`  
+> **Last Updated:** `2026-11-13 18:22:27 IST`  
+> **Host LAN Wi-Fi:** `10.83.246.153`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://compounds-tent-racks-invision.trycloudflare.com/student/](https://compounds-tent-racks-invision.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://compounds-tent-racks-invision.trycloudflare.com/faculty/](https://compounds-tent-racks-invision.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://compounds-tent-racks-invision.trycloudflare.com/admin/](https://compounds-tent-racks-invision.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://compounds-tent-racks-invision.trycloudflare.com/](https://compounds-tent-racks-invision.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://compounds-tent-racks-invision.trycloudflare.com/health](https://compounds-tent-racks-invision.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://conviction-occupational-most-syndicate.trycloudflare.com/student/](https://conviction-occupational-most-syndicate.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://conviction-occupational-most-syndicate.trycloudflare.com/faculty/](https://conviction-occupational-most-syndicate.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://conviction-occupational-most-syndicate.trycloudflare.com/admin/](https://conviction-occupational-most-syndicate.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://conviction-occupational-most-syndicate.trycloudflare.com/](https://conviction-occupational-most-syndicate.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://conviction-occupational-most-syndicate.trycloudflare.com/health](https://conviction-occupational-most-syndicate.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.35.132.149:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.35.132.149:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.35.132.149:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.35.132.149:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.35.132.149:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.83.246.153:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.83.246.153:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.83.246.153:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.83.246.153:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.83.246.153:5050/health` |
 
 ---
 
