@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-12 21:30:02 IST`  
-> **Host LAN Wi-Fi:** `172.26.95.226`  
+> **Last Updated:** `2026-11-13 10:42:56 IST`  
+> **Host LAN Wi-Fi:** `10.35.132.149`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/student/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/faculty/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/admin/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/](https://minimal-relatives-ultimate-niagara.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://minimal-relatives-ultimate-niagara.trycloudflare.com/health](https://minimal-relatives-ultimate-niagara.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/student/](https://baseball-lonely-effort-raleigh.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/faculty/](https://baseball-lonely-effort-raleigh.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/admin/](https://baseball-lonely-effort-raleigh.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/](https://baseball-lonely-effort-raleigh.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/health](https://baseball-lonely-effort-raleigh.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.95.226:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.95.226:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.95.226:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.95.226:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.95.226:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.35.132.149:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.35.132.149:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.35.132.149:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.35.132.149:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.35.132.149:5050/health` |
 
 ---
 
