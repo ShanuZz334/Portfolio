@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-13 10:42:56 IST`  
+> **Last Updated:** `2026-11-13 10:56:07 IST`  
 > **Host LAN Wi-Fi:** `10.35.132.149`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/student/](https://baseball-lonely-effort-raleigh.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/faculty/](https://baseball-lonely-effort-raleigh.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/admin/](https://baseball-lonely-effort-raleigh.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/](https://baseball-lonely-effort-raleigh.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://baseball-lonely-effort-raleigh.trycloudflare.com/health](https://baseball-lonely-effort-raleigh.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://compounds-tent-racks-invision.trycloudflare.com/student/](https://compounds-tent-racks-invision.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://compounds-tent-racks-invision.trycloudflare.com/faculty/](https://compounds-tent-racks-invision.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://compounds-tent-racks-invision.trycloudflare.com/admin/](https://compounds-tent-racks-invision.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://compounds-tent-racks-invision.trycloudflare.com/](https://compounds-tent-racks-invision.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://compounds-tent-racks-invision.trycloudflare.com/health](https://compounds-tent-racks-invision.trycloudflare.com/health)** |
 
 ---
 
