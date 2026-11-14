@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-13 21:48:43 IST`  
-> **Host LAN Wi-Fi:** `172.26.91.66`  
+> **Last Updated:** `2026-11-14 22:32:34 IST`  
+> **Host LAN Wi-Fi:** `10.36.106.120`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://continually-introductory-significant-newcastle.trycloudflare.com/student/](https://continually-introductory-significant-newcastle.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://continually-introductory-significant-newcastle.trycloudflare.com/faculty/](https://continually-introductory-significant-newcastle.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://continually-introductory-significant-newcastle.trycloudflare.com/admin/](https://continually-introductory-significant-newcastle.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://continually-introductory-significant-newcastle.trycloudflare.com/](https://continually-introductory-significant-newcastle.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://continually-introductory-significant-newcastle.trycloudflare.com/health](https://continually-introductory-significant-newcastle.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://adaptor-duties-subject-stud.trycloudflare.com/student/](https://adaptor-duties-subject-stud.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://adaptor-duties-subject-stud.trycloudflare.com/faculty/](https://adaptor-duties-subject-stud.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://adaptor-duties-subject-stud.trycloudflare.com/admin/](https://adaptor-duties-subject-stud.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://adaptor-duties-subject-stud.trycloudflare.com/](https://adaptor-duties-subject-stud.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://adaptor-duties-subject-stud.trycloudflare.com/health](https://adaptor-duties-subject-stud.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.91.66:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.91.66:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.91.66:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.91.66:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.91.66:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.106.120:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.106.120:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.106.120:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.106.120:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.106.120:5050/health` |
 
 ---
 
