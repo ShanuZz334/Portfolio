@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-14 22:32:34 IST`  
+> **Last Updated:** `2026-11-14 22:48:48 IST`  
 > **Host LAN Wi-Fi:** `10.36.106.120`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://adaptor-duties-subject-stud.trycloudflare.com/student/](https://adaptor-duties-subject-stud.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://adaptor-duties-subject-stud.trycloudflare.com/faculty/](https://adaptor-duties-subject-stud.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://adaptor-duties-subject-stud.trycloudflare.com/admin/](https://adaptor-duties-subject-stud.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://adaptor-duties-subject-stud.trycloudflare.com/](https://adaptor-duties-subject-stud.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://adaptor-duties-subject-stud.trycloudflare.com/health](https://adaptor-duties-subject-stud.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://douglas-allows-massachusetts-workers.trycloudflare.com/student/](https://douglas-allows-massachusetts-workers.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://douglas-allows-massachusetts-workers.trycloudflare.com/faculty/](https://douglas-allows-massachusetts-workers.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://douglas-allows-massachusetts-workers.trycloudflare.com/admin/](https://douglas-allows-massachusetts-workers.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://douglas-allows-massachusetts-workers.trycloudflare.com/](https://douglas-allows-massachusetts-workers.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://douglas-allows-massachusetts-workers.trycloudflare.com/health](https://douglas-allows-massachusetts-workers.trycloudflare.com/health)** |
 
 ---
 
