@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-15 09:38:44 IST`  
+> **Last Updated:** `2026-11-15 20:35:15 IST`  
 > **Host LAN Wi-Fi:** `10.36.106.120`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://positions-late-natural-avatar.trycloudflare.com/student/](https://positions-late-natural-avatar.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://positions-late-natural-avatar.trycloudflare.com/faculty/](https://positions-late-natural-avatar.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://positions-late-natural-avatar.trycloudflare.com/admin/](https://positions-late-natural-avatar.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://positions-late-natural-avatar.trycloudflare.com/](https://positions-late-natural-avatar.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://positions-late-natural-avatar.trycloudflare.com/health](https://positions-late-natural-avatar.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/student/](https://nat-acts-dedicated-hospital.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/faculty/](https://nat-acts-dedicated-hospital.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/admin/](https://nat-acts-dedicated-hospital.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/](https://nat-acts-dedicated-hospital.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/health](https://nat-acts-dedicated-hospital.trycloudflare.com/health)** |
 
 ---
 
