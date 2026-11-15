@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-14 23:53:54 IST`  
+> **Last Updated:** `2026-11-15 09:38:44 IST`  
 > **Host LAN Wi-Fi:** `10.36.106.120`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://recovered-toner-editions-declare.trycloudflare.com/student/](https://recovered-toner-editions-declare.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://recovered-toner-editions-declare.trycloudflare.com/faculty/](https://recovered-toner-editions-declare.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://recovered-toner-editions-declare.trycloudflare.com/admin/](https://recovered-toner-editions-declare.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://recovered-toner-editions-declare.trycloudflare.com/](https://recovered-toner-editions-declare.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://recovered-toner-editions-declare.trycloudflare.com/health](https://recovered-toner-editions-declare.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://positions-late-natural-avatar.trycloudflare.com/student/](https://positions-late-natural-avatar.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://positions-late-natural-avatar.trycloudflare.com/faculty/](https://positions-late-natural-avatar.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://positions-late-natural-avatar.trycloudflare.com/admin/](https://positions-late-natural-avatar.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://positions-late-natural-avatar.trycloudflare.com/](https://positions-late-natural-avatar.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://positions-late-natural-avatar.trycloudflare.com/health](https://positions-late-natural-avatar.trycloudflare.com/health)** |
 
 ---
 
