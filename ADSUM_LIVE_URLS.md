@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-15 20:35:15 IST`  
-> **Host LAN Wi-Fi:** `10.36.106.120`  
+> **Last Updated:** `2026-11-17 19:52:36 IST`  
+> **Host LAN Wi-Fi:** `172.26.82.169`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/student/](https://nat-acts-dedicated-hospital.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/faculty/](https://nat-acts-dedicated-hospital.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/admin/](https://nat-acts-dedicated-hospital.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/](https://nat-acts-dedicated-hospital.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://nat-acts-dedicated-hospital.trycloudflare.com/health](https://nat-acts-dedicated-hospital.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/student/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/faculty/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/admin/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/health](https://dosage-sheriff-jaguar-readers.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.106.120:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.106.120:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.106.120:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.106.120:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.106.120:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.82.169:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.82.169:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.82.169:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.82.169:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.82.169:5050/health` |
 
 ---
 
