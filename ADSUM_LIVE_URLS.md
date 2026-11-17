@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-17 19:52:36 IST`  
+> **Last Updated:** `2026-11-17 20:14:05 IST`  
 > **Host LAN Wi-Fi:** `172.26.82.169`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/student/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/faculty/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/admin/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/](https://dosage-sheriff-jaguar-readers.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://dosage-sheriff-jaguar-readers.trycloudflare.com/health](https://dosage-sheriff-jaguar-readers.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/student/](https://ebooks-casting-renewable-identical.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/faculty/](https://ebooks-casting-renewable-identical.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/admin/](https://ebooks-casting-renewable-identical.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/](https://ebooks-casting-renewable-identical.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/health](https://ebooks-casting-renewable-identical.trycloudflare.com/health)** |
 
 ---
 
