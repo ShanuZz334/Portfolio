@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-17 20:14:05 IST`  
+> **Last Updated:** `2026-11-17 20:34:46 IST`  
 > **Host LAN Wi-Fi:** `172.26.82.169`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/student/](https://ebooks-casting-renewable-identical.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/faculty/](https://ebooks-casting-renewable-identical.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/admin/](https://ebooks-casting-renewable-identical.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/](https://ebooks-casting-renewable-identical.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://ebooks-casting-renewable-identical.trycloudflare.com/health](https://ebooks-casting-renewable-identical.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/student/](https://balance-kruger-newsletters-targeted.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/faculty/](https://balance-kruger-newsletters-targeted.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/admin/](https://balance-kruger-newsletters-targeted.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/](https://balance-kruger-newsletters-targeted.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/health](https://balance-kruger-newsletters-targeted.trycloudflare.com/health)** |
 
 ---
 
