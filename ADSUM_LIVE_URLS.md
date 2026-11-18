@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-17 20:34:46 IST`  
-> **Host LAN Wi-Fi:** `172.26.82.169`  
+> **Last Updated:** `2026-11-18 19:55:09 IST`  
+> **Host LAN Wi-Fi:** `10.36.107.135`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/student/](https://balance-kruger-newsletters-targeted.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/faculty/](https://balance-kruger-newsletters-targeted.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/admin/](https://balance-kruger-newsletters-targeted.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/](https://balance-kruger-newsletters-targeted.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://balance-kruger-newsletters-targeted.trycloudflare.com/health](https://balance-kruger-newsletters-targeted.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://entities-budgets-ide-royal.trycloudflare.com/student/](https://entities-budgets-ide-royal.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://entities-budgets-ide-royal.trycloudflare.com/faculty/](https://entities-budgets-ide-royal.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://entities-budgets-ide-royal.trycloudflare.com/admin/](https://entities-budgets-ide-royal.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://entities-budgets-ide-royal.trycloudflare.com/](https://entities-budgets-ide-royal.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://entities-budgets-ide-royal.trycloudflare.com/health](https://entities-budgets-ide-royal.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.82.169:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.82.169:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.82.169:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.82.169:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.82.169:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.107.135:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.107.135:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.107.135:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.107.135:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.107.135:5050/health` |
 
 ---
 
