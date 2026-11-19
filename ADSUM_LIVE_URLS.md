@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-19 17:03:41 IST`  
+> **Last Updated:** `2026-11-19 17:56:20 IST`  
 > **Host LAN Wi-Fi:** `172.26.87.66`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://efforts-complexity-plugins-drove.trycloudflare.com/student/](https://efforts-complexity-plugins-drove.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://efforts-complexity-plugins-drove.trycloudflare.com/faculty/](https://efforts-complexity-plugins-drove.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://efforts-complexity-plugins-drove.trycloudflare.com/admin/](https://efforts-complexity-plugins-drove.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://efforts-complexity-plugins-drove.trycloudflare.com/](https://efforts-complexity-plugins-drove.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://efforts-complexity-plugins-drove.trycloudflare.com/health](https://efforts-complexity-plugins-drove.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/student/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/faculty/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/admin/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/health](https://baskets-chronicles-genealogy-feed.trycloudflare.com/health)** |
 
 ---
 
