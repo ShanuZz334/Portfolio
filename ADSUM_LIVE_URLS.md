@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-19 17:56:20 IST`  
-> **Host LAN Wi-Fi:** `172.26.87.66`  
+> **Last Updated:** `2026-11-20 14:14:20 IST`  
+> **Host LAN Wi-Fi:** `172.16.0.2`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/student/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/faculty/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/admin/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/](https://baskets-chronicles-genealogy-feed.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://baskets-chronicles-genealogy-feed.trycloudflare.com/health](https://baskets-chronicles-genealogy-feed.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://ordinary-dinner-january-crimes.trycloudflare.com/student/](https://ordinary-dinner-january-crimes.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://ordinary-dinner-january-crimes.trycloudflare.com/faculty/](https://ordinary-dinner-january-crimes.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://ordinary-dinner-january-crimes.trycloudflare.com/admin/](https://ordinary-dinner-january-crimes.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://ordinary-dinner-january-crimes.trycloudflare.com/](https://ordinary-dinner-january-crimes.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://ordinary-dinner-january-crimes.trycloudflare.com/health](https://ordinary-dinner-january-crimes.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.87.66:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.87.66:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.87.66:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.87.66:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.87.66:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.16.0.2:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.16.0.2:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.16.0.2:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.16.0.2:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.16.0.2:5050/health` |
 
 ---
 
