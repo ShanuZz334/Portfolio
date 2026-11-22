@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-22 21:34:09 IST`  
+> **Last Updated:** `2026-11-22 21:56:47 IST`  
 > **Host LAN Wi-Fi:** `172.26.81.74`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/student/](https://partnership-enjoy-respond-peers.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/faculty/](https://partnership-enjoy-respond-peers.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/admin/](https://partnership-enjoy-respond-peers.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/](https://partnership-enjoy-respond-peers.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/health](https://partnership-enjoy-respond-peers.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://hidden-above-destinations-carmen.trycloudflare.com/student/](https://hidden-above-destinations-carmen.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://hidden-above-destinations-carmen.trycloudflare.com/faculty/](https://hidden-above-destinations-carmen.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://hidden-above-destinations-carmen.trycloudflare.com/admin/](https://hidden-above-destinations-carmen.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://hidden-above-destinations-carmen.trycloudflare.com/](https://hidden-above-destinations-carmen.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://hidden-above-destinations-carmen.trycloudflare.com/health](https://hidden-above-destinations-carmen.trycloudflare.com/health)** |
 
 ---
 
