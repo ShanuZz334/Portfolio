@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-22 19:25:26 IST`  
+> **Last Updated:** `2026-11-22 21:34:09 IST`  
 > **Host LAN Wi-Fi:** `172.26.81.74`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://represent-charger-lip-struggle.trycloudflare.com/student/](https://represent-charger-lip-struggle.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://represent-charger-lip-struggle.trycloudflare.com/faculty/](https://represent-charger-lip-struggle.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://represent-charger-lip-struggle.trycloudflare.com/admin/](https://represent-charger-lip-struggle.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://represent-charger-lip-struggle.trycloudflare.com/](https://represent-charger-lip-struggle.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://represent-charger-lip-struggle.trycloudflare.com/health](https://represent-charger-lip-struggle.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/student/](https://partnership-enjoy-respond-peers.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/faculty/](https://partnership-enjoy-respond-peers.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/admin/](https://partnership-enjoy-respond-peers.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/](https://partnership-enjoy-respond-peers.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://partnership-enjoy-respond-peers.trycloudflare.com/health](https://partnership-enjoy-respond-peers.trycloudflare.com/health)** |
 
 ---
 
