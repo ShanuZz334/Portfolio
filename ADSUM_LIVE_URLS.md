@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-21 18:07:05 IST`  
-> **Host LAN Wi-Fi:** `172.26.86.84`  
+> **Last Updated:** `2026-11-22 19:25:26 IST`  
+> **Host LAN Wi-Fi:** `172.26.81.74`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://indicating-reserves-trout-grass.trycloudflare.com/student/](https://indicating-reserves-trout-grass.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://indicating-reserves-trout-grass.trycloudflare.com/faculty/](https://indicating-reserves-trout-grass.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://indicating-reserves-trout-grass.trycloudflare.com/admin/](https://indicating-reserves-trout-grass.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://indicating-reserves-trout-grass.trycloudflare.com/](https://indicating-reserves-trout-grass.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://indicating-reserves-trout-grass.trycloudflare.com/health](https://indicating-reserves-trout-grass.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://represent-charger-lip-struggle.trycloudflare.com/student/](https://represent-charger-lip-struggle.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://represent-charger-lip-struggle.trycloudflare.com/faculty/](https://represent-charger-lip-struggle.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://represent-charger-lip-struggle.trycloudflare.com/admin/](https://represent-charger-lip-struggle.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://represent-charger-lip-struggle.trycloudflare.com/](https://represent-charger-lip-struggle.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://represent-charger-lip-struggle.trycloudflare.com/health](https://represent-charger-lip-struggle.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.86.84:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.86.84:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.86.84:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.86.84:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.86.84:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.81.74:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.81.74:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.81.74:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.81.74:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.81.74:5050/health` |
 
 ---
 
