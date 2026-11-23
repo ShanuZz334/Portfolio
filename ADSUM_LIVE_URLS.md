@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-23 20:19:39 IST`  
-> **Host LAN Wi-Fi:** `172.16.0.2`  
+> **Last Updated:** `2026-11-23 22:23:46 IST`  
+> **Host LAN Wi-Fi:** `172.26.86.32`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://blocked-adjust-list-many.trycloudflare.com/student/](https://blocked-adjust-list-many.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://blocked-adjust-list-many.trycloudflare.com/faculty/](https://blocked-adjust-list-many.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://blocked-adjust-list-many.trycloudflare.com/admin/](https://blocked-adjust-list-many.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://blocked-adjust-list-many.trycloudflare.com/](https://blocked-adjust-list-many.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://blocked-adjust-list-many.trycloudflare.com/health](https://blocked-adjust-list-many.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/student/](https://holidays-alternatives-responding-bird.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/faculty/](https://holidays-alternatives-responding-bird.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/admin/](https://holidays-alternatives-responding-bird.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/](https://holidays-alternatives-responding-bird.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/health](https://holidays-alternatives-responding-bird.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.16.0.2:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.16.0.2:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.16.0.2:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.16.0.2:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.16.0.2:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.86.32:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.86.32:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.86.32:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.86.32:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.86.32:5050/health` |
 
 ---
 
