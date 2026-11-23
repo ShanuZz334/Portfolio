@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-23 22:23:46 IST`  
+> **Last Updated:** `2026-11-23 23:03:21 IST`  
 > **Host LAN Wi-Fi:** `172.26.86.32`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/student/](https://holidays-alternatives-responding-bird.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/faculty/](https://holidays-alternatives-responding-bird.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/admin/](https://holidays-alternatives-responding-bird.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/](https://holidays-alternatives-responding-bird.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://holidays-alternatives-responding-bird.trycloudflare.com/health](https://holidays-alternatives-responding-bird.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://uploaded-regions-rush-taking.trycloudflare.com/student/](https://uploaded-regions-rush-taking.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://uploaded-regions-rush-taking.trycloudflare.com/faculty/](https://uploaded-regions-rush-taking.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://uploaded-regions-rush-taking.trycloudflare.com/admin/](https://uploaded-regions-rush-taking.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://uploaded-regions-rush-taking.trycloudflare.com/](https://uploaded-regions-rush-taking.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://uploaded-regions-rush-taking.trycloudflare.com/health](https://uploaded-regions-rush-taking.trycloudflare.com/health)** |
 
 ---
 
