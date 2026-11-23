@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-23 18:38:03 IST`  
+> **Last Updated:** `2026-11-23 19:34:17 IST`  
 > **Host LAN Wi-Fi:** `172.16.0.2`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://istanbul-ata-engineers-surveillance.trycloudflare.com/student/](https://istanbul-ata-engineers-surveillance.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://istanbul-ata-engineers-surveillance.trycloudflare.com/faculty/](https://istanbul-ata-engineers-surveillance.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://istanbul-ata-engineers-surveillance.trycloudflare.com/admin/](https://istanbul-ata-engineers-surveillance.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://istanbul-ata-engineers-surveillance.trycloudflare.com/](https://istanbul-ata-engineers-surveillance.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://istanbul-ata-engineers-surveillance.trycloudflare.com/health](https://istanbul-ata-engineers-surveillance.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://angel-pairs-supplements-bras.trycloudflare.com/student/](https://angel-pairs-supplements-bras.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://angel-pairs-supplements-bras.trycloudflare.com/faculty/](https://angel-pairs-supplements-bras.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://angel-pairs-supplements-bras.trycloudflare.com/admin/](https://angel-pairs-supplements-bras.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://angel-pairs-supplements-bras.trycloudflare.com/](https://angel-pairs-supplements-bras.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://angel-pairs-supplements-bras.trycloudflare.com/health](https://angel-pairs-supplements-bras.trycloudflare.com/health)** |
 
 ---
 
