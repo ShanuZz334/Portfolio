@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 19:44:30 IST`  
+> **Last Updated:** `2026-11-24 19:45:17 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://nevada-taste-wages-guests.trycloudflare.com/student/](https://nevada-taste-wages-guests.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://nevada-taste-wages-guests.trycloudflare.com/faculty/](https://nevada-taste-wages-guests.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://nevada-taste-wages-guests.trycloudflare.com/admin/](https://nevada-taste-wages-guests.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://nevada-taste-wages-guests.trycloudflare.com/](https://nevada-taste-wages-guests.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://nevada-taste-wages-guests.trycloudflare.com/health](https://nevada-taste-wages-guests.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://sally-morgan-gather-football.trycloudflare.com/student/](https://sally-morgan-gather-football.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://sally-morgan-gather-football.trycloudflare.com/faculty/](https://sally-morgan-gather-football.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://sally-morgan-gather-football.trycloudflare.com/admin/](https://sally-morgan-gather-football.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://sally-morgan-gather-football.trycloudflare.com/](https://sally-morgan-gather-football.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://sally-morgan-gather-football.trycloudflare.com/health](https://sally-morgan-gather-football.trycloudflare.com/health)** |
 
 ---
 
