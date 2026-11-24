@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 00:24:48 IST`  
-> **Host LAN Wi-Fi:** `10.83.246.153`  
+> **Last Updated:** `2026-11-24 13:13:29 IST`  
+> **Host LAN Wi-Fi:** `10.36.107.213`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://applies-trace-tub-license.trycloudflare.com/student/](https://applies-trace-tub-license.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://applies-trace-tub-license.trycloudflare.com/faculty/](https://applies-trace-tub-license.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://applies-trace-tub-license.trycloudflare.com/admin/](https://applies-trace-tub-license.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://applies-trace-tub-license.trycloudflare.com/](https://applies-trace-tub-license.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://applies-trace-tub-license.trycloudflare.com/health](https://applies-trace-tub-license.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://element-threatened-signature-his.trycloudflare.com/student/](https://element-threatened-signature-his.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://element-threatened-signature-his.trycloudflare.com/faculty/](https://element-threatened-signature-his.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://element-threatened-signature-his.trycloudflare.com/admin/](https://element-threatened-signature-his.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://element-threatened-signature-his.trycloudflare.com/](https://element-threatened-signature-his.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://element-threatened-signature-his.trycloudflare.com/health](https://element-threatened-signature-his.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.83.246.153:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.83.246.153:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.83.246.153:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.83.246.153:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.83.246.153:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.107.213:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.107.213:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.107.213:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.107.213:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.107.213:5050/health` |
 
 ---
 
