@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 20:45:05 IST`  
+> **Last Updated:** `2026-11-24 20:54:18 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/student/](https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/faculty/](https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/admin/](https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/](https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/health](https://sites-viewpicture-peaceful-dangerous.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://replica-posted-unable-participate.trycloudflare.com/student/](https://replica-posted-unable-participate.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://replica-posted-unable-participate.trycloudflare.com/faculty/](https://replica-posted-unable-participate.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://replica-posted-unable-participate.trycloudflare.com/admin/](https://replica-posted-unable-participate.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://replica-posted-unable-participate.trycloudflare.com/](https://replica-posted-unable-participate.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://replica-posted-unable-participate.trycloudflare.com/health](https://replica-posted-unable-participate.trycloudflare.com/health)** |
 
 ---
 
