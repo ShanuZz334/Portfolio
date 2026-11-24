@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 21:27:26 IST`  
+> **Last Updated:** `2026-11-24 21:40:33 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://generating-huge-push-recruiting.trycloudflare.com/student/](https://generating-huge-push-recruiting.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://generating-huge-push-recruiting.trycloudflare.com/faculty/](https://generating-huge-push-recruiting.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://generating-huge-push-recruiting.trycloudflare.com/admin/](https://generating-huge-push-recruiting.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://generating-huge-push-recruiting.trycloudflare.com/](https://generating-huge-push-recruiting.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://generating-huge-push-recruiting.trycloudflare.com/health](https://generating-huge-push-recruiting.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://trusts-score-technologies-compound.trycloudflare.com/student/](https://trusts-score-technologies-compound.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://trusts-score-technologies-compound.trycloudflare.com/faculty/](https://trusts-score-technologies-compound.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://trusts-score-technologies-compound.trycloudflare.com/admin/](https://trusts-score-technologies-compound.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://trusts-score-technologies-compound.trycloudflare.com/](https://trusts-score-technologies-compound.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://trusts-score-technologies-compound.trycloudflare.com/health](https://trusts-score-technologies-compound.trycloudflare.com/health)** |
 
 ---
 
