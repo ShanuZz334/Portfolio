@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 19:17:42 IST`  
+> **Last Updated:** `2026-11-24 19:40:31 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://memories-usually-quilt-jewellery.trycloudflare.com/student/](https://memories-usually-quilt-jewellery.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://memories-usually-quilt-jewellery.trycloudflare.com/faculty/](https://memories-usually-quilt-jewellery.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://memories-usually-quilt-jewellery.trycloudflare.com/admin/](https://memories-usually-quilt-jewellery.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://memories-usually-quilt-jewellery.trycloudflare.com/](https://memories-usually-quilt-jewellery.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://memories-usually-quilt-jewellery.trycloudflare.com/health](https://memories-usually-quilt-jewellery.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://tours-owen-xbox-allowance.trycloudflare.com/student/](https://tours-owen-xbox-allowance.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://tours-owen-xbox-allowance.trycloudflare.com/faculty/](https://tours-owen-xbox-allowance.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://tours-owen-xbox-allowance.trycloudflare.com/admin/](https://tours-owen-xbox-allowance.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://tours-owen-xbox-allowance.trycloudflare.com/](https://tours-owen-xbox-allowance.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://tours-owen-xbox-allowance.trycloudflare.com/health](https://tours-owen-xbox-allowance.trycloudflare.com/health)** |
 
 ---
 
