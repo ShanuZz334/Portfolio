@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 21:40:33 IST`  
+> **Last Updated:** `2026-11-24 22:09:55 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://trusts-score-technologies-compound.trycloudflare.com/student/](https://trusts-score-technologies-compound.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://trusts-score-technologies-compound.trycloudflare.com/faculty/](https://trusts-score-technologies-compound.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://trusts-score-technologies-compound.trycloudflare.com/admin/](https://trusts-score-technologies-compound.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://trusts-score-technologies-compound.trycloudflare.com/](https://trusts-score-technologies-compound.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://trusts-score-technologies-compound.trycloudflare.com/health](https://trusts-score-technologies-compound.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://triple-zen-wanna-toddler.trycloudflare.com/student/](https://triple-zen-wanna-toddler.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://triple-zen-wanna-toddler.trycloudflare.com/faculty/](https://triple-zen-wanna-toddler.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://triple-zen-wanna-toddler.trycloudflare.com/admin/](https://triple-zen-wanna-toddler.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://triple-zen-wanna-toddler.trycloudflare.com/](https://triple-zen-wanna-toddler.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://triple-zen-wanna-toddler.trycloudflare.com/health](https://triple-zen-wanna-toddler.trycloudflare.com/health)** |
 
 ---
 
