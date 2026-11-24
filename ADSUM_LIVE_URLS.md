@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 20:05:22 IST`  
+> **Last Updated:** `2026-11-24 20:29:35 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://tract-hunting-arrived-identifies.trycloudflare.com/student/](https://tract-hunting-arrived-identifies.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://tract-hunting-arrived-identifies.trycloudflare.com/faculty/](https://tract-hunting-arrived-identifies.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://tract-hunting-arrived-identifies.trycloudflare.com/admin/](https://tract-hunting-arrived-identifies.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://tract-hunting-arrived-identifies.trycloudflare.com/](https://tract-hunting-arrived-identifies.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://tract-hunting-arrived-identifies.trycloudflare.com/health](https://tract-hunting-arrived-identifies.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://united-von-bags-surrounding.trycloudflare.com/student/](https://united-von-bags-surrounding.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://united-von-bags-surrounding.trycloudflare.com/faculty/](https://united-von-bags-surrounding.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://united-von-bags-surrounding.trycloudflare.com/admin/](https://united-von-bags-surrounding.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://united-von-bags-surrounding.trycloudflare.com/](https://united-von-bags-surrounding.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://united-von-bags-surrounding.trycloudflare.com/health](https://united-von-bags-surrounding.trycloudflare.com/health)** |
 
 ---
 
