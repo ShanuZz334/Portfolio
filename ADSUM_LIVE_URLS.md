@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 18:51:56 IST`  
+> **Last Updated:** `2026-11-24 19:08:11 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://emission-art-bedford-certainly.trycloudflare.com/student/](https://emission-art-bedford-certainly.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://emission-art-bedford-certainly.trycloudflare.com/faculty/](https://emission-art-bedford-certainly.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://emission-art-bedford-certainly.trycloudflare.com/admin/](https://emission-art-bedford-certainly.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://emission-art-bedford-certainly.trycloudflare.com/](https://emission-art-bedford-certainly.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://emission-art-bedford-certainly.trycloudflare.com/health](https://emission-art-bedford-certainly.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://retrieve-rachel-pasta-phentermine.trycloudflare.com/student/](https://retrieve-rachel-pasta-phentermine.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://retrieve-rachel-pasta-phentermine.trycloudflare.com/faculty/](https://retrieve-rachel-pasta-phentermine.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://retrieve-rachel-pasta-phentermine.trycloudflare.com/admin/](https://retrieve-rachel-pasta-phentermine.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://retrieve-rachel-pasta-phentermine.trycloudflare.com/](https://retrieve-rachel-pasta-phentermine.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://retrieve-rachel-pasta-phentermine.trycloudflare.com/health](https://retrieve-rachel-pasta-phentermine.trycloudflare.com/health)** |
 
 ---
 
