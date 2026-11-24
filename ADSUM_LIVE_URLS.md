@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 18:10:42 IST`  
-> **Host LAN Wi-Fi:** `10.83.246.153`  
+> **Last Updated:** `2026-11-24 18:25:06 IST`  
+> **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://passengers-cruises-tri-restrict.trycloudflare.com/student/](https://passengers-cruises-tri-restrict.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://passengers-cruises-tri-restrict.trycloudflare.com/faculty/](https://passengers-cruises-tri-restrict.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://passengers-cruises-tri-restrict.trycloudflare.com/admin/](https://passengers-cruises-tri-restrict.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://passengers-cruises-tri-restrict.trycloudflare.com/](https://passengers-cruises-tri-restrict.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://passengers-cruises-tri-restrict.trycloudflare.com/health](https://passengers-cruises-tri-restrict.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://articles-disabilities-save-gig.trycloudflare.com/student/](https://articles-disabilities-save-gig.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://articles-disabilities-save-gig.trycloudflare.com/faculty/](https://articles-disabilities-save-gig.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://articles-disabilities-save-gig.trycloudflare.com/admin/](https://articles-disabilities-save-gig.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://articles-disabilities-save-gig.trycloudflare.com/](https://articles-disabilities-save-gig.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://articles-disabilities-save-gig.trycloudflare.com/health](https://articles-disabilities-save-gig.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.83.246.153:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.83.246.153:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.83.246.153:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.83.246.153:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.83.246.153:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.85.13:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.85.13:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.85.13:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.85.13:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.85.13:5050/health` |
 
 ---
 
