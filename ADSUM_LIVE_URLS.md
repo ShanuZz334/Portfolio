@@ -1,7 +1,7 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 21:09:29 IST`  
+> **Last Updated:** `2026-11-24 21:27:26 IST`  
 > **Host LAN Wi-Fi:** `172.26.85.13`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://given-deserve-treasury-rfc.trycloudflare.com/student/](https://given-deserve-treasury-rfc.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://given-deserve-treasury-rfc.trycloudflare.com/faculty/](https://given-deserve-treasury-rfc.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://given-deserve-treasury-rfc.trycloudflare.com/admin/](https://given-deserve-treasury-rfc.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://given-deserve-treasury-rfc.trycloudflare.com/](https://given-deserve-treasury-rfc.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://given-deserve-treasury-rfc.trycloudflare.com/health](https://given-deserve-treasury-rfc.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://generating-huge-push-recruiting.trycloudflare.com/student/](https://generating-huge-push-recruiting.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://generating-huge-push-recruiting.trycloudflare.com/faculty/](https://generating-huge-push-recruiting.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://generating-huge-push-recruiting.trycloudflare.com/admin/](https://generating-huge-push-recruiting.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://generating-huge-push-recruiting.trycloudflare.com/](https://generating-huge-push-recruiting.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://generating-huge-push-recruiting.trycloudflare.com/health](https://generating-huge-push-recruiting.trycloudflare.com/health)** |
 
 ---
 
