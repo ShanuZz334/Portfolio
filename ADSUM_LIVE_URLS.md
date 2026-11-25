@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-24 22:09:55 IST`  
-> **Host LAN Wi-Fi:** `172.26.85.13`  
+> **Last Updated:** `2026-11-25 22:34:07 IST`  
+> **Host LAN Wi-Fi:** `10.36.107.72`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://triple-zen-wanna-toddler.trycloudflare.com/student/](https://triple-zen-wanna-toddler.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://triple-zen-wanna-toddler.trycloudflare.com/faculty/](https://triple-zen-wanna-toddler.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://triple-zen-wanna-toddler.trycloudflare.com/admin/](https://triple-zen-wanna-toddler.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://triple-zen-wanna-toddler.trycloudflare.com/](https://triple-zen-wanna-toddler.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://triple-zen-wanna-toddler.trycloudflare.com/health](https://triple-zen-wanna-toddler.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/student/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/faculty/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/admin/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/health](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.26.85.13:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.26.85.13:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.26.85.13:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.26.85.13:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.26.85.13:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.107.72:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.107.72:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.107.72:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.107.72:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.107.72:5050/health` |
 
 ---
 
