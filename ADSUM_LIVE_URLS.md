@@ -1,8 +1,8 @@
 # ADSUM — Autonomous Presence Fortress Live Portal Links
 
 > **Status:** Live Cloudflare Dual Tunnel Active (Permanent Domain + Rotating Edge)  
-> **Last Updated:** `2026-11-25 22:34:07 IST`  
-> **Host LAN Wi-Fi:** `10.36.107.72`  
+> **Last Updated:** `2026-11-25 22:43:13 IST`  
+> **Host LAN Wi-Fi:** `172.20.10.14`  
 > **Local Gateway Port:** `8050` | **Backend API Port:** `5050`  
 
 ---
@@ -27,11 +27,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Direct Rotating Live URL |
 | :--- | :--- |
-| **📱 Student Mobile Web App** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/student/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/student/)** |
-| **🎓 Teacher / Faculty Portal** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/faculty/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/faculty/)** |
-| **🛡️ Administrator Governance** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/admin/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/admin/)** |
-| **🌐 Master Ecosystem Hub** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/)** |
-| **⚡ Core Backend Health** | **[https://maximize-coupled-decreased-cholesterol.trycloudflare.com/health](https://maximize-coupled-decreased-cholesterol.trycloudflare.com/health)** |
+| **📱 Student Mobile Web App** | **[https://sailing-following-apt-sorry.trycloudflare.com/student/](https://sailing-following-apt-sorry.trycloudflare.com/student/)** |
+| **🎓 Teacher / Faculty Portal** | **[https://sailing-following-apt-sorry.trycloudflare.com/faculty/](https://sailing-following-apt-sorry.trycloudflare.com/faculty/)** |
+| **🛡️ Administrator Governance** | **[https://sailing-following-apt-sorry.trycloudflare.com/admin/](https://sailing-following-apt-sorry.trycloudflare.com/admin/)** |
+| **🌐 Master Ecosystem Hub** | **[https://sailing-following-apt-sorry.trycloudflare.com/](https://sailing-following-apt-sorry.trycloudflare.com/)** |
+| **⚡ Core Backend Health** | **[https://sailing-following-apt-sorry.trycloudflare.com/health](https://sailing-following-apt-sorry.trycloudflare.com/health)** |
 
 ---
 
@@ -39,11 +39,11 @@ Alternate high-speed edge URL for testing on external phones & laptops:
 
 | Portal Tier | Localhost URL | LAN Wi-Fi URL |
 | :--- | :--- | :--- |
-| **📱 Student Web App** | `http://localhost:8050/student/` | `http://10.36.107.72:8050/student/` |
-| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://10.36.107.72:8050/faculty/` |
-| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://10.36.107.72:8050/admin/` |
-| **🌐 Master Hub** | `http://localhost:8050/` | `http://10.36.107.72:8050/` |
-| **⚡ Backend Health** | `http://localhost:5050/health` | `http://10.36.107.72:5050/health` |
+| **📱 Student Web App** | `http://localhost:8050/student/` | `http://172.20.10.14:8050/student/` |
+| **🎓 Teacher Portal** | `http://localhost:8050/faculty/` | `http://172.20.10.14:8050/faculty/` |
+| **🛡️ Admin Governance** | `http://localhost:8050/admin/` | `http://172.20.10.14:8050/admin/` |
+| **🌐 Master Hub** | `http://localhost:8050/` | `http://172.20.10.14:8050/` |
+| **⚡ Backend Health** | `http://localhost:5050/health` | `http://172.20.10.14:5050/health` |
 
 ---
 
